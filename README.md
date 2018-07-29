@@ -1171,7 +1171,6 @@ A curated list of awesome R frameworks, libraries and software.
 * [Groupe-ElementR/cartography](https://github.com/Groupe-ElementR/cartography) - :globe_with_meridians: Thematic Cartography
 * [henriquepgomide/caRtola](https://github.com/henriquepgomide/caRtola) - Extração de dados da API do CartolaFC, análise exploratória dos dados e modelos preditivos em R - Anos 2017, 2016, 2015 e 2014. [EN] Data munging, analysis and modeling of CartolaFC - the most popular fantasy football game in Brazil and maybe in the world. Data are from years 2014-16.
 * [njahn82/roadoi](https://github.com/njahn82/roadoi) - Use oaDOI.org with R
-* [wlandau-lilly/drake](https://github.com/wlandau-lilly/drake) - A scalable solution for reproducibility and high-performance computing
 * [timelyportfolio/timelineR](https://github.com/timelyportfolio/timelineR) - R htmlwidget for interactive d3.js timelines using d3.layout.timeline
 * [s-u/RJDBC](https://github.com/s-u/RJDBC) - R interface to databases using JDBC
 * [SKKU-SKT/ggplot2.SparkR](https://github.com/SKKU-SKT/ggplot2.SparkR) - Rebooting ggplot2 for scalable big data visualization
