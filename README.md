@@ -28,863 +28,884 @@ A curated list of awesome R frameworks, libraries and software.
 * [swirldev/swirl](https://github.com/swirldev/swirl) - :cyclone: Learn R, in R.
 * [tidymodels/broom](https://github.com/tidymodels/broom) - Convert statistical analysis objects from R into tidy format
 * [rstudio/reticulate](https://github.com/rstudio/reticulate) - R Interface to Python
-* [r-lib/httr](https://github.com/r-lib/httr) - httr: a friendly http package for R
 * [trestletech/plumber](https://github.com/trestletech/plumber) - Turn your R code into a web API.
+* [r-lib/httr](https://github.com/r-lib/httr) - httr: a friendly http package for R
 * [tidyverse/purrr](https://github.com/tidyverse/purrr) - A functional programming toolkit for R
 * [juliasilge/tidytext](https://github.com/juliasilge/tidytext) - Text mining using dplyr, ggplot2, and other tidy tools :sparkles::page_facing_up::sparkles::page_facing_up::sparkles:
-* [jennybc/googlesheets](https://github.com/jennybc/googlesheets) - Google Spreadsheets R API
-* [tidyverse/magrittr](https://github.com/tidyverse/magrittr) - Improve the readability of R code with the pipe
 * [tidyverse/readr](https://github.com/tidyverse/readr) - Read flat files (csv, tsv, fwf) into R
+* [jennybc/googlesheets](https://github.com/jennybc/googlesheets) - Google Spreadsheets R API
 * [tidyverse/tidyr](https://github.com/tidyverse/tidyr) - Easily tidy data with spread and gather functions.
+* [tidyverse/magrittr](https://github.com/tidyverse/magrittr) - Improve the readability of R code with the pipe
+* [rmcelreath/rethinking](https://github.com/rmcelreath/rethinking) - Statistical Rethinking course and book package
+* [robjhyndman/forecast](https://github.com/robjhyndman/forecast) - forecast package for R
 * [amplab-extras/SparkR-pkg](https://github.com/amplab-extras/SparkR-pkg) - R frontend for Spark
 * [rstudio/ggvis](https://github.com/rstudio/ggvis) - Interactive grammar of graphics for R
-* [robjhyndman/forecast](https://github.com/robjhyndman/forecast) - forecast package for R
-* [rmcelreath/rethinking](https://github.com/rmcelreath/rethinking) - Statistical Rethinking course and book package
 * [tidyverse/tidyverse](https://github.com/tidyverse/tidyverse) - Easily install and load packages from the tidyverse
 * [ben519/MLPB](https://github.com/ben519/MLPB) - Machine Learning Problem Bible | Problem Set Here >>
 * [rstudio/sparklyr](https://github.com/rstudio/sparklyr) - R interface for Apache Spark
 * [ramnathv/htmlwidgets](https://github.com/ramnathv/htmlwidgets) - HTML Widgets for R
-* [thomasp85/ggraph](https://github.com/thomasp85/ggraph) - Grammar of Graph Graphics
 * [griffithlab/rnaseq_tutorial](https://github.com/griffithlab/rnaseq_tutorial) - Informatics for RNA-seq: A web resource for analysis on the cloud. Educational tutorials and working pipelines for RNA-seq analysis including an introduction to: cloud computing, critical file formats, reference genomes, gene annotation, expression, differential expression, alternative splicing, data visualization, and interpretation.
+* [thomasp85/ggraph](https://github.com/thomasp85/ggraph) - Grammar of Graph Graphics
 * [rdpeng/ProgrammingAssignment2](https://github.com/rdpeng/ProgrammingAssignment2) - Repository for Programming Assignment 2 for R Programming on Coursera
 * [dselivanov/text2vec](https://github.com/dselivanov/text2vec) - Fast vectorization, topic modeling, distances and GloVe word embeddings in R.
 * [r-lib/testthat](https://github.com/r-lib/testthat) - An R 📦 to make testing 😀
 * [wch/r-source](https://github.com/wch/r-source) - Read-only mirror of R source code from https://svn.r-project.org/R/, updated hourly. See the build instructions on the wiki page.
-* [rstudio/RStartHere](https://github.com/rstudio/RStartHere) - A guide to some of the most useful R Packages that we know about
-* [google/rappor](https://github.com/google/rappor) - RAPPOR: Privacy-Preserving Reporting Algorithms
-* [KentonWhite/ProjectTemplate](https://github.com/KentonWhite/ProjectTemplate) - A template utility for R projects that provides a skeletal project.
 * [sfirke/janitor](https://github.com/sfirke/janitor) - simple tools for data cleaning in R
+* [google/rappor](https://github.com/google/rappor) - RAPPOR: Privacy-Preserving Reporting Algorithms
+* [rstudio/RStartHere](https://github.com/rstudio/RStartHere) - A guide to some of the most useful R Packages that we know about
+* [KentonWhite/ProjectTemplate](https://github.com/KentonWhite/ProjectTemplate) - A template utility for R projects that provides a skeletal project.
+* [ropensci/drake](https://github.com/ropensci/drake) - An R-focused pipeline toolkit for reproducibility and high-performance computing
 * [jimhester/lintr](https://github.com/jimhester/lintr) - Static Code Analysis for R
 * [stan-dev/rstan](https://github.com/stan-dev/rstan) - RStan, the R interface to Stan
-* [ropensci/drake](https://github.com/ropensci/drake) - An R-focused pipeline toolkit for reproducibility and high-performance computing
 * [hadley/plyr](https://github.com/hadley/plyr) - A R package for splitting, applying and combining large problems into simpler problems
+* [rstudio/keras](https://github.com/rstudio/keras) - R Interface to Keras
 * [hrbrmstr/hrbrthemes](https://github.com/hrbrmstr/hrbrthemes) - :lock_with_ink_pen: Opinionated, typographic-centric ggplot2 themes and theme components
-* [christophergandrud/networkD3](https://github.com/christophergandrud/networkD3) - D3 JavaScript Network Graphs from R
 * [dkahle/ggmap](https://github.com/dkahle/ggmap) - a package for plotting maps in R with ggplot2
 * [r-spatial/sf](https://github.com/r-spatial/sf) - Simple Features for R
+* [christophergandrud/networkD3](https://github.com/christophergandrud/networkD3) - D3 JavaScript Network Graphs from R
 * [quanteda/quanteda](https://github.com/quanteda/quanteda) - An R package for the Quantitative Analysis of Textual Data
 * [toddwschneider/ballr](https://github.com/toddwschneider/ballr) - Interactive NBA and NCAA Shot Charts with R and Shiny
 * [paul-buerkner/brms](https://github.com/paul-buerkner/brms) - brms R package for Bayesian generalized multivariate non-linear multilevel models using Stan
-* [bedatadriven/renjin](https://github.com/bedatadriven/renjin) - JVM-based interpreter for the R language for the statistical analysis.
 * [HenrikBengtsson/future](https://github.com/HenrikBengtsson/future) - :rocket: R package: future: Unified Parallel and Distributed Processing in R for Everyone
-* [pzhaonet/mindr](https://github.com/pzhaonet/mindr) - an R package which converts markdown files (.md, .Rmd) into mindmaps (brainstorms)
-* [tidyverse/lubridate](https://github.com/tidyverse/lubridate) - Make working with dates in R just that little bit easier
 * [dreamRs/esquisse](https://github.com/dreamRs/esquisse) - RStudio add-in to make plots with ggplot2
+* [bedatadriven/renjin](https://github.com/bedatadriven/renjin) - JVM-based interpreter for the R language for the statistical analysis.
+* [pzhaonet/mindr](https://github.com/pzhaonet/mindr) - an R package which converts markdown files (.md, .Rmd) into mindmaps (brainstorms)
 * [daattali/shinyjs](https://github.com/daattali/shinyjs) - Easily improve the user experience of your Shiny apps in seconds
-* [jalapic/engsoccerdata](https://github.com/jalapic/engsoccerdata) - English and European soccer results 1871-2017
+* [tidyverse/lubridate](https://github.com/tidyverse/lubridate) - Make working with dates in R just that little bit easier
+* [tylermorganwall/rayshader](https://github.com/tylermorganwall/rayshader) - R Package for Producing and Visualizing Hillshaded Maps from Elevation Matrices, in 2D and 3D
 * [MilesMcBain/datapasta](https://github.com/MilesMcBain/datapasta) - On top of spaghetti, all covered in cheese....
+* [jalapic/engsoccerdata](https://github.com/jalapic/engsoccerdata) - English and European soccer results 1871-2017
 * [hrbrmstr/ggalt](https://github.com/hrbrmstr/ggalt) - :earth_americas: Extra Coordinate Systems, Geoms,  Statistical Transformations & Scales for 'ggplot2'
 * [r-lib/pkgdown](https://github.com/r-lib/pkgdown) - Generate static html documentation for an R package
 * [jbkunst/highcharter](https://github.com/jbkunst/highcharter) - R wrapper for highcharts based on htmlwidgets
-* [tylermorganwall/rayshader](https://github.com/tylermorganwall/rayshader) - R Package for Producing and Visualizing Hillshaded Maps from Elevation Matrices, in 2D and 3D
+* [hrbrmstr/waffle](https://github.com/hrbrmstr/waffle) - :maple_leaf: Make waffle (square pie) charts in R
 * [sinhrks/ggfortify](https://github.com/sinhrks/ggfortify) - Define fortify and autoplot functions to allow ggplot2 to handle some popular R packages.
 * [joshuaulrich/quantmod](https://github.com/joshuaulrich/quantmod) - Quantitative Financial Modelling Framework
 * [tidyverse/reprex](https://github.com/tidyverse/reprex) - Render bits of R code for sharing, e.g., on GitHub or StackOverflow.
+* [leeper/rio](https://github.com/leeper/rio) - A Swiss-Army Knife for Data I/O
 * [greta-dev/greta](https://github.com/greta-dev/greta) - simple and scalable statistical modelling in R
 * [rudeboybert/fivethirtyeight](https://github.com/rudeboybert/fivethirtyeight) - R package of data and code behind the stories and interactives at FiveThirtyEight
-* [leeper/rio](https://github.com/leeper/rio) - A Swiss-Army Knife for Data I/O
-* [pablobarbera/Rfacebook](https://github.com/pablobarbera/Rfacebook) - Dev version of Rfacebook package: Access to Facebook API via R
-* [ropensci/tabulizer](https://github.com/ropensci/tabulizer) - Bindings for Tabula PDF Table Extractor Library
-* [tidyverse/glue](https://github.com/tidyverse/glue) - Glue strings to data in R. Small, fast, dependency free interpreted string literals.
-* [richfitz/remake](https://github.com/richfitz/remake) - Make-like declarative workflows in R
 * [jokergoo/circlize](https://github.com/jokergoo/circlize) - Circular visualization in R
+* [ropensci/tabulizer](https://github.com/ropensci/tabulizer) - Bindings for Tabula PDF Table Extractor Library
 * [r-lib/usethis](https://github.com/r-lib/usethis) - Set up commonly used 📦 components
+* [pablobarbera/Rfacebook](https://github.com/pablobarbera/Rfacebook) - Dev version of Rfacebook package: Access to Facebook API via R
 * [mkearney/rtweet](https://github.com/mkearney/rtweet) - 🐦 R client for interacting with Twitter's [stream and REST] APIs
+* [tidyverse/glue](https://github.com/tidyverse/glue) - Glue strings to data in R. Small, fast, dependency free interpreted string literals.
+* [satijalab/seurat](https://github.com/satijalab/seurat) - R toolkit for single cell genomics
 * [thomasp85/lime](https://github.com/thomasp85/lime) - Local Interpretable Model-Agnostic Explanations (R port of original Python package)
+* [richfitz/remake](https://github.com/richfitz/remake) - Make-like declarative workflows in R
 * [rstudio/DT](https://github.com/rstudio/DT) - R Interface to the jQuery Plug-in DataTables
 * [tidyverse/modelr](https://github.com/tidyverse/modelr) - Helper functions for modelling
-* [satijalab/seurat](https://github.com/satijalab/seurat) - R toolkit for single cell genomics
 * [r-dbi/bigrquery](https://github.com/r-dbi/bigrquery) - An interface to Google's bigquery from R.
-* [dmpe/R](https://github.com/dmpe/R) - Exercises (incl. analyses) with R language (math+statistics)
 * [hms-dbmi/UpSetR](https://github.com/hms-dbmi/UpSetR) - An R implementation of the UpSet set visualization technique published by Lex, Gehlenborg, et al..
-* [swarm-lab/editR](https://github.com/swarm-lab/editR) - A Rmarkdown editor with instant preview
-* [tidyverse/stringr](https://github.com/tidyverse/stringr) - A fresh approach to string manipulation in R
-* [mages/googleVis](https://github.com/mages/googleVis) - Interface between R and the Google Chart Tools
+* [dmpe/R](https://github.com/dmpe/R) - Exercises (incl. analyses) with R language (math+statistics)
 * [rstudio/r2d3](https://github.com/rstudio/r2d3) - R Interface to D3 Visualizations
-* [daattali/timevis](https://github.com/daattali/timevis) - Create interactive timeline visualizations in R
-* [rstudio/packrat](https://github.com/rstudio/packrat) - Packrat is a dependency management system for R
-* [Robinlovelace/geocompr](https://github.com/Robinlovelace/geocompr) - Open source book: Geocomputation with R
-* [mtennekes/tmap](https://github.com/mtennekes/tmap) - R package for thematic maps
-* [Microsoft/SQL-Server-R-Services-Samples](https://github.com/Microsoft/SQL-Server-R-Services-Samples) - Advanced analytics samples and templates using SQL Server R Services
+* [tidyverse/stringr](https://github.com/tidyverse/stringr) - A fresh approach to string manipulation in R
+* [swarm-lab/editR](https://github.com/swarm-lab/editR) - A Rmarkdown editor with instant preview
 * [IndrajeetPatil/ggstatsplot](https://github.com/IndrajeetPatil/ggstatsplot) - Collection of functions to enhance ggplot2 plots with results from statistical tests.
-* [GuangchuangYu/ggtree](https://github.com/GuangchuangYu/ggtree) - :christmas_tree:Visualization and annotation of phylogenetic trees
+* [mages/googleVis](https://github.com/mages/googleVis) - Interface between R and the Google Chart Tools
+* [Robinlovelace/geocompr](https://github.com/Robinlovelace/geocompr) - Open source book: Geocomputation with R
+* [daattali/timevis](https://github.com/daattali/timevis) - Create interactive timeline visualizations in R
 * [tidymodels/infer](https://github.com/tidymodels/infer) - An R package for tidyverse-friendly statistical inference
+* [mtennekes/tmap](https://github.com/mtennekes/tmap) - R package for thematic maps
+* [rstudio/packrat](https://github.com/rstudio/packrat) - Packrat is a dependency management system for R
+* [GuangchuangYu/ggtree](https://github.com/GuangchuangYu/ggtree) - :christmas_tree:Visualization and annotation of phylogenetic trees
+* [Microsoft/SQL-Server-R-Services-Samples](https://github.com/Microsoft/SQL-Server-R-Services-Samples) - Advanced analytics samples and templates using SQL Server R Services
 * [EmilHvitfeldt/r-color-palettes](https://github.com/EmilHvitfeldt/r-color-palettes) - Comprehensive list of color palettes available in r
+* [mjskay/tidybayes](https://github.com/mjskay/tidybayes) - Bayesian analysis + tidy data + geoms (R package)
 * [EmilHvitfeldt/ggpage](https://github.com/EmilHvitfeldt/ggpage) - Creates Page Layout Visualizations in R
 * [SurajGupta/r-source](https://github.com/SurajGupta/r-source) - R Source Code
-* [ropensci/rplos](https://github.com/ropensci/rplos) - R client for the PLoS Journals API
-* [mjskay/tidybayes](https://github.com/mjskay/tidybayes) - Bayesian analysis + tidy data + geoms (R package)
-* [tidyverse/forcats](https://github.com/tidyverse/forcats) - 🐈🐈🐈🐈: tools for working with categorical variables (factors)
 * [ggobi/ggally](https://github.com/ggobi/ggally) - R package that extends ggplot2
-* [bokeh/rbokeh](https://github.com/bokeh/rbokeh) - R interface to Bokeh http://hafen.github.io/rbokeh/
+* [ropensci/rplos](https://github.com/ropensci/rplos) - R client for the PLoS Journals API
 * [awalker89/openxlsx](https://github.com/awalker89/openxlsx) - R package for .xlsx file reading and writing.
-* [ropensci/magick](https://github.com/ropensci/magick) - Magic, madness, heaven, sin
 * [igraph/rigraph](https://github.com/igraph/rigraph) - igraph R package
+* [tidyverse/forcats](https://github.com/tidyverse/forcats) - 🐈🐈🐈🐈: tools for working with categorical variables (factors)
+* [bokeh/rbokeh](https://github.com/bokeh/rbokeh) - R interface to Bokeh http://hafen.github.io/rbokeh/
+* [szcf-weiya/ESL-CN](https://github.com/szcf-weiya/ESL-CN) - The Elements of Statistical Learning (ESL)的中文翻译、代码实现及其习题解答。
+* [ropensci/magick](https://github.com/ropensci/magick) - Magic, madness, heaven, sin
 * [mjockers/syuzhet](https://github.com/mjockers/syuzhet) - An R package for the extraction of sentiment and sentiment-based plot arcs from text
 * [geoffjentry/twitteR](https://github.com/geoffjentry/twitteR) - R based twitter client
-* [davidgohel/ReporteRs](https://github.com/davidgohel/ReporteRs) - Note that ReporteRs has been removed from CRAN the 16th of July 2018. please migrate to officer
 * [marcusvolz/mathart](https://github.com/marcusvolz/mathart) - Create mathematical art with R
-* [echen/ggplot2-tutorial](https://github.com/echen/ggplot2-tutorial) - Quick introduction to ggplot2 (no knowledge of R assumed)
-* [r-lib/R6](https://github.com/r-lib/R6) - Encapsulated object-oriented programming for R
-* [gadenbuie/regexplain](https://github.com/gadenbuie/regexplain) - 🔍 An RStudio addin slash regex utility belt
-* [tidyverse/tibble](https://github.com/tidyverse/tibble) - A modern re-imagining of the data frame
+* [davidgohel/ReporteRs](https://github.com/davidgohel/ReporteRs) - Note that ReporteRs has been removed from CRAN the 16th of July 2018. please migrate to officer
 * [jdblischak/workflowr](https://github.com/jdblischak/workflowr) - Organize your project into a research website
-* [EasyD/IntroToDataScience](https://github.com/EasyD/IntroToDataScience) - GitHub Repository to accompany my YouTube series of videos on Introductory Data Science using R.
-* [r-lib/styler](https://github.com/r-lib/styler) - Non-invasive pretty printing of R code
-* [vnijs/radiant](https://github.com/vnijs/radiant) - Business analytics using R and Shiny
-* [Rapporter/pander](https://github.com/Rapporter/pander) - An R Pandoc Writer
-* [rweekly/rweekly.org](https://github.com/rweekly/rweekly.org) - R Weekly
-* [nicolewhite/RNeo4j](https://github.com/nicolewhite/RNeo4j) - Neo4j Driver for R.
-* [ajtulloch/Elements-of-Statistical-Learning](https://github.com/ajtulloch/Elements-of-Statistical-Learning) - Contains LaTeX, SciPy and R code providing solutions to exercises in Elements of Statistical Learning (Hastie, Tibshirani & Friedman)
-* [MangoTheCat/goodpractice](https://github.com/MangoTheCat/goodpractice) - Advice on R Package Building
+* [rstudio/gt](https://github.com/rstudio/gt) - Easily generate information-rich, publication-quality tables from R
+* [gadenbuie/regexplain](https://github.com/gadenbuie/regexplain) - 🔍 An RStudio addin slash regex utility belt
+* [r-lib/R6](https://github.com/r-lib/R6) - Encapsulated object-oriented programming for R
+* [echen/ggplot2-tutorial](https://github.com/echen/ggplot2-tutorial) - Quick introduction to ggplot2 (no knowledge of R assumed)
+* [tidyverse/tibble](https://github.com/tidyverse/tibble) - A modern re-imagining of the data frame
 * [thomasp85/tidygraph](https://github.com/thomasp85/tidygraph) - A tidy API for graph manipulation
-* [ThinkR-open/remedy](https://github.com/ThinkR-open/remedy) - RStudio Addins to Simplify Markdown Writing
-* [walkerke/tidycensus](https://github.com/walkerke/tidycensus) - Load US Census boundary and attribute data as 'tidyverse' and 'sf'-ready data frames in R
+* [r-lib/styler](https://github.com/r-lib/styler) - Non-invasive pretty printing of R code
 * [dreamRs/shinyWidgets](https://github.com/dreamRs/shinyWidgets) - shinyWidgets : Extend widgets available in shiny
-* [r-lib/covr](https://github.com/r-lib/covr) - Test coverage reports for R
-* [ropensci/assertr](https://github.com/ropensci/assertr) - Assertive programming for R analysis pipelines
+* [rweekly/rweekly.org](https://github.com/rweekly/rweekly.org) - R Weekly
+* [EasyD/IntroToDataScience](https://github.com/EasyD/IntroToDataScience) - GitHub Repository to accompany my YouTube series of videos on Introductory Data Science using R.
+* [vnijs/radiant](https://github.com/vnijs/radiant) - Business analytics using R and Shiny
+* [walkerke/tidycensus](https://github.com/walkerke/tidycensus) - Load US Census boundary and attribute data as 'tidyverse' and 'sf'-ready data frames in R
+* [ajtulloch/Elements-of-Statistical-Learning](https://github.com/ajtulloch/Elements-of-Statistical-Learning) - Contains LaTeX, SciPy and R code providing solutions to exercises in Elements of Statistical Learning (Hastie, Tibshirani & Friedman)
+* [Rapporter/pander](https://github.com/Rapporter/pander) - An R Pandoc Writer
+* [nicolewhite/RNeo4j](https://github.com/nicolewhite/RNeo4j) - Neo4j Driver for R.
+* [MangoTheCat/goodpractice](https://github.com/MangoTheCat/goodpractice) - Advice on R Package Building
+* [ThinkR-open/remedy](https://github.com/ThinkR-open/remedy) - RStudio Addins to Simplify Markdown Writing
 * [davidgohel/officer](https://github.com/davidgohel/officer) - :cop: officer: office documents from R
-* [mkearney/tweetbotornot](https://github.com/mkearney/tweetbotornot) - 🤖 R package for detecting Twitter bots via machine learning
-* [trevorstephens/titanic](https://github.com/trevorstephens/titanic) - Getting Started With R
 * [crsh/papaja](https://github.com/crsh/papaja) - papaja (Preparing APA Journal Articles) is an R package that provides document formats and helper functions to produce complete APA manscripts from RMarkdown-files (PDF and Word documents).
-* [rstudio/Intro](https://github.com/rstudio/Intro) - Course materials for "Introduction to Data Science with R", a video course by RStudio and O'Reilly Media
-* [benmarwick/rrtools](https://github.com/benmarwick/rrtools) - rrtools: Tools for Writing Reproducible Research in R
-* [strengejacke/sjPlot](https://github.com/strengejacke/sjPlot) - sjPlot - Data Visualization for Statistics in Social Science
-* [r-hub/rhub](https://github.com/r-hub/rhub) - R-hub API client
+* [r-lib/covr](https://github.com/r-lib/covr) - Test coverage reports for R
 * [riatelab/cartography](https://github.com/riatelab/cartography) - :globe_with_meridians: Thematic Cartography
-* [drsimonj/corrr](https://github.com/drsimonj/corrr) - R package for exploring correlations
+* [benmarwick/rrtools](https://github.com/benmarwick/rrtools) - rrtools: Tools for Writing Reproducible Research in R
+* [ropensci/assertr](https://github.com/ropensci/assertr) - Assertive programming for R analysis pipelines
+* [strengejacke/sjPlot](https://github.com/strengejacke/sjPlot) - sjPlot - Data Visualization for Statistics in Social Science
+* [trevorstephens/titanic](https://github.com/trevorstephens/titanic) - Getting Started With R
+* [mkearney/tweetbotornot](https://github.com/mkearney/tweetbotornot) - 🤖 R package for detecting Twitter bots via machine learning
+* [rstudio/Intro](https://github.com/rstudio/Intro) - Course materials for "Introduction to Data Science with R", a video course by RStudio and O'Reilly Media
+* [r-hub/rhub](https://github.com/r-hub/rhub) - R-hub API client
 * [trinker/sentimentr](https://github.com/trinker/sentimentr) - Dictionary based sentiment analysis that considers valence shifters
-* [hrbrmstr/slackr](https://github.com/hrbrmstr/slackr) - :hash: A package to send webhook API messages to Slack.com channels/users from R
-* [smartinsightsfromdata/rpivotTable](https://github.com/smartinsightsfromdata/rpivotTable) - A R wrapper for the great library pivottable
-* [FrankPortman/bayesAB](https://github.com/FrankPortman/bayesAB) - 🐢 bayesAB: Fast Bayesian Methods for A/B Testing
-* [ropensci/RSelenium](https://github.com/ropensci/RSelenium) - An R client for Selenium Remote WebDriver
-* [joey711/phyloseq](https://github.com/joey711/phyloseq) - phyloseq is a set of classes, wrappers, and tools (in R) to make it easier to import, store, and analyze phylogenetic sequencing data; and to reproducibly share that data and analysis with others. See the phyloseq front page:
-* [cloudyr/aws.s3](https://github.com/cloudyr/aws.s3) - Amazon Simple Storage Service (S3) API Client
-* [toddwschneider/shiny-salesman](https://github.com/toddwschneider/shiny-salesman) - Traveling salesman with simulated annealing, R, and Shiny
-* [ropensci/elastic](https://github.com/ropensci/elastic) - R client for the Elasticsearch HTTP API
+* [drsimonj/corrr](https://github.com/drsimonj/corrr) - R package for exploring correlations
 * [ropensci/visdat](https://github.com/ropensci/visdat) - Preliminary Exploratory Visualisation of Data
-* [kabacoff/RiA2](https://github.com/kabacoff/RiA2) - Source code for R in Action, Second Edition
-* [r-lib/rlang](https://github.com/r-lib/rlang) - Low-level API for programming with R
-* [ben519/DataWrangling](https://github.com/ben519/DataWrangling) - The ultimate reference guide to data wrangling with Python and R
+* [gadenbuie/tidyexplain](https://github.com/gadenbuie/tidyexplain) - Animations of tidyverse verbs using R, the tidyverse, and gganimate
+* [ropensci/RSelenium](https://github.com/ropensci/RSelenium) - An R client for Selenium Remote WebDriver
+* [hrbrmstr/slackr](https://github.com/hrbrmstr/slackr) - :hash: A package to send webhook API messages to Slack.com channels/users from R
+* [FrankPortman/bayesAB](https://github.com/FrankPortman/bayesAB) - 🐢 bayesAB: Fast Bayesian Methods for A/B Testing
+* [smartinsightsfromdata/rpivotTable](https://github.com/smartinsightsfromdata/rpivotTable) - A R wrapper for the great library pivottable
+* [cloudyr/aws.s3](https://github.com/cloudyr/aws.s3) - Amazon Simple Storage Service (S3) API Client
 * [jennybc/row-oriented-workflows](https://github.com/jennybc/row-oriented-workflows) - Row-oriented workflows in R with the tidyverse
+* [r-lib/rlang](https://github.com/r-lib/rlang) - Low-level API for programming with R
+* [kabacoff/RiA2](https://github.com/kabacoff/RiA2) - Source code for R in Action, Second Edition
+* [joey711/phyloseq](https://github.com/joey711/phyloseq) - phyloseq is a set of classes, wrappers, and tools (in R) to make it easier to import, store, and analyze phylogenetic sequencing data; and to reproducibly share that data and analysis with others. See the phyloseq front page:
+* [ropensci/elastic](https://github.com/ropensci/elastic) - R client for the Elasticsearch HTTP API
+* [toddwschneider/shiny-salesman](https://github.com/toddwschneider/shiny-salesman) - Traveling salesman with simulated annealing, R, and Shiny
 * [r-spatial/mapview](https://github.com/r-spatial/mapview) - Interactive viewing of spatial data in R
 * [Lchiffon/REmap](https://github.com/Lchiffon/REmap) - create  a map by R
 * [GuangchuangYu/hexSticker](https://github.com/GuangchuangYu/hexSticker) - :sparkles:Hexagon sticker in R
+* [ben519/DataWrangling](https://github.com/ben519/DataWrangling) - The ultimate reference guide to data wrangling with Python and R
 * [r-lib/progress](https://github.com/r-lib/progress) - Progress bar in your R terminal
+* [noamross/redoc](https://github.com/noamross/redoc) - Reversible Reproducible Documents
 * [Tatvic/RGoogleAnalytics](https://github.com/Tatvic/RGoogleAnalytics) - R Library to easily extract data from the Google Analytics API into R
+* [stan-dev/rstanarm](https://github.com/stan-dev/rstanarm) - rstanarm R package for Bayesian applied regression modeling
+* [maksimhorowitz/nflscrapR](https://github.com/maksimhorowitz/nflscrapR) - R Package for Scraping and Aggregating NFL Data
 * [bnosac/taskscheduleR](https://github.com/bnosac/taskscheduleR) - Schedule R scripts/processes with the Windows task scheduler.
 * [jennybc/ggplot2-tutorial](https://github.com/jennybc/ggplot2-tutorial) - Teaching materials for the R package ggplot2
 * [mkearney/resist_oped](https://github.com/mkearney/resist_oped) - 🕵🏽‍♀️ Identifying the author behind New York Time’s op-ed from inside the Trump White House.
 * [hafen/geofacet](https://github.com/hafen/geofacet) - R package for geographical faceting with ggplot2
-* [stan-dev/rstanarm](https://github.com/stan-dev/rstanarm) - rstanarm R package for Bayesian applied regression modeling
-* [hadley/reshape](https://github.com/hadley/reshape) - An R package to flexible rearrange, reshape and aggregate data
 * [hadley/emo](https://github.com/hadley/emo) - Easily insert emoji into R and RMarkdown
-* [cwickham/purrr-tutorial](https://github.com/cwickham/purrr-tutorial) - A introduction to purrr
 * [talgalili/heatmaply](https://github.com/talgalili/heatmaply) - Interactive Heat Maps for R Using plotly
-* [Laurae2/Laurae](https://github.com/Laurae2/Laurae) - Advanced High Performance Data Science Toolbox for R by Laurae
-* [bstewart/stm](https://github.com/bstewart/stm) - An R Package for the Structural Topic Model
+* [hadley/reshape](https://github.com/hadley/reshape) - An R package to flexible rearrange, reshape and aggregate data
 * [sjmgarnier/viridis](https://github.com/sjmgarnier/viridis) - Implementation of the Matplolib 'viridis' color map in R
+* [cwickham/purrr-tutorial](https://github.com/cwickham/purrr-tutorial) - A introduction to purrr
+* [bstewart/stm](https://github.com/bstewart/stm) - An R Package for the Structural Topic Model
 * [hadley/strict](https://github.com/hadley/strict) - Make R a little bit stricter
-* [wch/extrafont](https://github.com/wch/extrafont) - Tools for using fonts in R graphics
-* [maksimhorowitz/nflscrapR](https://github.com/maksimhorowitz/nflscrapR) - R Package for Scraping and Aggregating NFL Data
-* [gadenbuie/tidyexplain](https://github.com/gadenbuie/tidyexplain) - Animations of tidyverse verbs using R, the tidyverse, and gganimate
-* [dgrapov/TeachingDemos](https://github.com/dgrapov/TeachingDemos) - Bioinformatics related demos and tutorials using the R programming language
-* [jennybc/r-graph-catalog](https://github.com/jennybc/r-graph-catalog) - All graphs in “Creating More Effective Graphs”, made with R package ggplot2.
+* [Laurae2/Laurae](https://github.com/Laurae2/Laurae) - Advanced High Performance Data Science Toolbox for R by Laurae
 * [briatte/ida](https://github.com/briatte/ida) - Introduction to Data Analysis, using R (2013)
+* [wch/extrafont](https://github.com/wch/extrafont) - Tools for using fonts in R graphics
+* [dgrapov/TeachingDemos](https://github.com/dgrapov/TeachingDemos) - Bioinformatics related demos and tutorials using the R programming language
+* [christophM/iml](https://github.com/christophM/iml) - iml: interpretable machine learning R package
 * [skardhamar/rga](https://github.com/skardhamar/rga) - R Google Analytics
 * [r-lib/fs](https://github.com/r-lib/fs) - Provide cross platform file operations based on libuv.
-* [christophM/iml](https://github.com/christophM/iml) - iml: interpretable machine learning R package
-* [boxuancui/DataExplorer](https://github.com/boxuancui/DataExplorer) - Automate data exploration and treatment
-* [yihui/servr](https://github.com/yihui/servr) - A simple HTTP server in R
 * [jennybc/whattheyforgot](https://github.com/jennybc/whattheyforgot) - What They Forgot To Teach You About R, homepage for "how to's" and workshops
+* [jennybc/r-graph-catalog](https://github.com/jennybc/r-graph-catalog) - All graphs in “Creating More Effective Graphs”, made with R package ggplot2.
+* [boxuancui/DataExplorer](https://github.com/boxuancui/DataExplorer) - Automate data exploration and treatment
+* [r-spatial/stars](https://github.com/r-spatial/stars) - Spatiotemporal tidy arrays for R
+* [yihui/servr](https://github.com/yihui/servr) - A simple HTTP server in R
 * [ropensci/rnoaa](https://github.com/ropensci/rnoaa) - R interface to many NOAA data APIs
 * [radiant-rstats/radiant](https://github.com/radiant-rstats/radiant) - Business analytics using R and Shiny. The radiant app combines the menus from radiant.data, radiant.design, radiant.basics, radiant.model, and radiant.multivariate.
-* [rstudio/tufte](https://github.com/rstudio/tufte) - Tufte Styles for R Markdown Documents
-* [r-spatial/stars](https://github.com/r-spatial/stars) - Spatiotemporal tidy arrays for R
-* [leeper/margins](https://github.com/leeper/margins) - An R Port of Stata's 'margins' Command
-* [cdeterman/gpuR](https://github.com/cdeterman/gpuR) - R interface to use GPU's
 * [trinker/topicmodels_learning](https://github.com/trinker/topicmodels_learning) - A repository of learning & R resources related to topic models
-* [karthik/rdrop2](https://github.com/karthik/rdrop2) - Dropbox Interface from R
+* [rstudio/tufte](https://github.com/rstudio/tufte) - Tufte Styles for R Markdown Documents
+* [leeper/margins](https://github.com/leeper/margins) - An R Port of Stata's 'margins' Command
 * [daattali/ggExtra](https://github.com/daattali/ggExtra) - Add marginal histograms to ggplot2, and more ggplot2 enhancements
-* [christophergandrud/d3Network](https://github.com/christophergandrud/d3Network) - Tools for creating D3 JavaScript network graphs from R.
 * [Pakillo/R-GIS-tutorial](https://github.com/Pakillo/R-GIS-tutorial) - Spatial data in R: using R as a GIS
-* [hadley/pryr](https://github.com/hadley/pryr) - Pry open the covers of R
-* [kevinushey/rex](https://github.com/kevinushey/rex) - Friendly regular expressions for R.
+* [karthik/rdrop2](https://github.com/karthik/rdrop2) - Dropbox Interface from R
+* [cdeterman/gpuR](https://github.com/cdeterman/gpuR) - R interface to use GPU's
 * [yrosseel/lavaan](https://github.com/yrosseel/lavaan) - an R package for structural equation modeling and more
+* [hadley/pryr](https://github.com/hadley/pryr) - Pry open the covers of R
+* [christophergandrud/d3Network](https://github.com/christophergandrud/d3Network) - Tools for creating D3 JavaScript network graphs from R.
+* [kevinushey/rex](https://github.com/kevinushey/rex) - Friendly regular expressions for R.
 * [jannes-m/RQGIS](https://github.com/jannes-m/RQGIS) - RQGIS - integrating R with QGIS
-* [PMassicotte/gtrendsR](https://github.com/PMassicotte/gtrendsR) - R functions to perform and display Google Trends queries
-* [jennybc/send-email-with-r](https://github.com/jennybc/send-email-with-r) - How to send a bunch of email from R
 * [r-dbi/RSQLite](https://github.com/r-dbi/RSQLite) - R interface for SQLite
-* [r-lib/lobstr](https://github.com/r-lib/lobstr) - Understanding complex R objects with tools similar to str()
-* [jimhester/gmailr](https://github.com/jimhester/gmailr) - Access the Gmail RESTful API from R.
+* [PMassicotte/gtrendsR](https://github.com/PMassicotte/gtrendsR) - R functions to perform and display Google Trends queries
 * [AppliedDataSciencePartners/xgboostExplainer](https://github.com/AppliedDataSciencePartners/xgboostExplainer) - An R package that makes xgboost models fully interpretable
+* [r-lib/lobstr](https://github.com/r-lib/lobstr) - Understanding complex R objects with tools similar to str()
+* [jennybc/send-email-with-r](https://github.com/jennybc/send-email-with-r) - How to send a bunch of email from R
 * [ropensci/taxize](https://github.com/ropensci/taxize) - A taxonomic toolbelt for R
 * [r-lib/crayon](https://github.com/r-lib/crayon) - R package for colored terminal output
-* [business-science/timetk](https://github.com/business-science/timetk) - A toolkit for working with time series in R
-* [trinker/wakefield](https://github.com/trinker/wakefield) - Generate random data sets
+* [ggrothendieck/sqldf](https://github.com/ggrothendieck/sqldf) - Perform SQL Selects on R Data Frames
+* [dcomtois/summarytools](https://github.com/dcomtois/summarytools) - R Package for quickly and neatly summarizing vectors and dataframes
 * [talgalili/installr](https://github.com/talgalili/installr) - Functions for installing softwares from within R
 * [ropensci/iheatmapr](https://github.com/ropensci/iheatmapr) - Complex, interactive heatmaps in R
-* [ggrothendieck/sqldf](https://github.com/ggrothendieck/sqldf) - Perform SQL Selects on R Data Frames
+* [jimhester/gmailr](https://github.com/jimhester/gmailr) - Access the Gmail RESTful API from R.
 * [briatte/ggnet](https://github.com/briatte/ggnet) - Network visualization with ggplot2
+* [trinker/wakefield](https://github.com/trinker/wakefield) - Generate random data sets
 * [rlbarter/superheat](https://github.com/rlbarter/superheat) - An r package for generating beautiful and customizable heatmaps
+* [klmr/modules](https://github.com/klmr/modules) - Replacing packages: An alternative module system for R
+* [business-science/timetk](https://github.com/business-science/timetk) - A toolkit for working with time series in R
+* [dirkschumacher/ompr](https://github.com/dirkschumacher/ompr) - R package to model Mixed Integer Linear Programs
 * [tidyverse/dbplyr](https://github.com/tidyverse/dbplyr) - Database (DBI) backend for dplyr
 * [pridiltal/staplr](https://github.com/pridiltal/staplr) - PDF Toolkit. :paperclip: :hammer: :wrench: :scissors:  :bookmark_tabs: :file_folder::paperclip:
-* [leeper/slopegraph](https://github.com/leeper/slopegraph) - Edward Tufte-Inspired Slopegraphs
-* [klmr/modules](https://github.com/klmr/modules) - Replacing packages: An alternative module system for R
 * [khanhnamle1994/statistical-learning](https://github.com/khanhnamle1994/statistical-learning) - Lecture Slides and R Sessions for Trevor Hastie and Rob Tibshinari's "Statistical Learning" Stanford course
-* [dirkschumacher/ompr](https://github.com/dirkschumacher/ompr) - R package to model Mixed Integer Linear Programs
 * [stan-dev/bayesplot](https://github.com/stan-dev/bayesplot) - bayesplot R package for plotting Bayesian models
-* [ropensci/opendata](https://github.com/ropensci/opendata) - CRAN OpenData Task View
+* [salimk/Rcrawler](https://github.com/salimk/Rcrawler) - An R web crawler and scraper
+* [r-lib/zeallot](https://github.com/r-lib/zeallot) - Variable assignment with zeal! (or multiple, unpacking, and destructuring assignment in R)
+* [leeper/slopegraph](https://github.com/leeper/slopegraph) - Edward Tufte-Inspired Slopegraphs
+* [benmarwick/wordcountaddin](https://github.com/benmarwick/wordcountaddin) - Word counts and readability statistics in R markdown documents
 * [maxtoki/baseball_R](https://github.com/maxtoki/baseball_R) - Companion to Analyzing Baseball Data with R
 * [markvanderloo/stringdist](https://github.com/markvanderloo/stringdist) - String distance functions for R
 * [joshuaulrich/TTR](https://github.com/joshuaulrich/TTR) - Technical analysis and other functions to construct technical trading rules with R
-* [salimk/Rcrawler](https://github.com/salimk/Rcrawler) - An R web crawler and scraper
-* [rich-iannone/stationaRy](https://github.com/rich-iannone/stationaRy) - Get hourly meteorological data from one of thousands of global stations
-* [jimhester/lookup](https://github.com/jimhester/lookup) - Lookup R full function definitions, including compiled code, S3 and S4 methods.
-* [ecpolley/SuperLearner](https://github.com/ecpolley/SuperLearner) - Current version of the SuperLearner R package
-* [yihui/formatR](https://github.com/yihui/formatR) - Format R Code Automatically
-* [stan-dev/shinystan](https://github.com/stan-dev/shinystan) - shinystan R package and ShinyStan GUI
-* [r-dbi/DBI](https://github.com/r-dbi/DBI) - A database interface (DBI) definition for communication between R and RDBMSs
-* [kolaczyk/sand](https://github.com/kolaczyk/sand) - Statistical Analysis of Network Data with R
-* [rpremraj/mailR](https://github.com/rpremraj/mailR) - A utility to send emails from the R programming environment
-* [r-lib/scales](https://github.com/r-lib/scales) - Graphical scales
+* [ropensci/opendata](https://github.com/ropensci/opendata) - CRAN OpenData Task View
 * [r-lib/memoise](https://github.com/r-lib/memoise) - Easy memoisation for R
+* [yihui/formatR](https://github.com/yihui/formatR) - Format R Code Automatically
+* [r-lib/scales](https://github.com/r-lib/scales) - Graphical scales
+* [ecpolley/SuperLearner](https://github.com/ecpolley/SuperLearner) - Current version of the SuperLearner R package
+* [rich-iannone/stationaRy](https://github.com/rich-iannone/stationaRy) - Get hourly meteorological data from one of thousands of global stations
+* [kolaczyk/sand](https://github.com/kolaczyk/sand) - Statistical Analysis of Network Data with R
+* [jimhester/lookup](https://github.com/jimhester/lookup) - Lookup R full function definitions, including compiled code, S3 and S4 methods.
 * [hafen/trelliscopejs](https://github.com/hafen/trelliscopejs) - TrelliscopeJS R Package
-* [dcomtois/summarytools](https://github.com/dcomtois/summarytools) - R Package for quickly and neatly summarizing vectors and dataframes
+* [ankane/jetpack](https://github.com/ankane/jetpack) - A friendly package manager for R
+* [stan-dev/shinystan](https://github.com/stan-dev/shinystan) - shinystan R package and ShinyStan GUI
+* [rpremraj/mailR](https://github.com/rpremraj/mailR) - A utility to send emails from the R programming environment
+* [r-dbi/DBI](https://github.com/r-dbi/DBI) - A database interface (DBI) definition for communication between R and RDBMSs
+* [griffithlab/GenVisR](https://github.com/griffithlab/GenVisR) - Genome data visualizations
 * [Bart6114/jug](https://github.com/Bart6114/jug) - jug: A Simple Web Framework for R
 * [syberia/syberia](https://github.com/syberia/syberia) - Syberia: The development framework for R
-* [benmarwick/wordcountaddin](https://github.com/benmarwick/wordcountaddin) - Word counts and readability statistics in R markdown documents
-* [ankane/jetpack](https://github.com/ankane/jetpack) - A friendly package manager for R
-* [tidyverse/googledrive](https://github.com/tidyverse/googledrive) - Google Drive R API
 * [ropensci/fulltext](https://github.com/ropensci/fulltext) - Search across and get full text for OA & closed journals
-* [jseidman/hadoop-R](https://github.com/jseidman/hadoop-R) - Example code for running R on Hadoop
-* [griffithlab/GenVisR](https://github.com/griffithlab/GenVisR) - Genome data visualizations
 * [datacamp/RDocumentation](https://github.com/datacamp/RDocumentation) - R package to integrate rdocumentation.org into your R workflow
-* [wleepang/DesktopDeployR](https://github.com/wleepang/DesktopDeployR) - A framework for deploying self-contained R-based applications to the desktop
+* [tidyverse/googledrive](https://github.com/tidyverse/googledrive) - Google Drive R API
 * [ropensci/tesseract](https://github.com/ropensci/tesseract) - Bindings to Tesseract OCR engine for R
-* [kjhealy/revere](https://github.com/kjhealy/revere) - Finding Paul Revere
-* [trulia/choroplethr](https://github.com/trulia/choroplethr) - choroplethr simplifies the creation of choropleths (thematic maps) in R
-* [hgeorgako/rfortraders](https://github.com/hgeorgako/rfortraders) - Quantitative Trading with R
-* [renkun-ken/pipeR](https://github.com/renkun-ken/pipeR) - Multi-Paradigm Pipeline Implementation
-* [ranalytics/r-tutorials](https://github.com/ranalytics/r-tutorials) - Приложения к книге "Статистический анализ и визуализация данных с помощью R"
 * [corybrunson/ggalluvial](https://github.com/corybrunson/ggalluvial) - ggplot2 extension for alluvial diagrams
-* [jonocarroll/mathpix](https://github.com/jonocarroll/mathpix) - Query the mathpix API to convert math images to LaTeX
-* [jeffreyhorner/Rook](https://github.com/jeffreyhorner/Rook) - A web server interface for R
-* [bhaskarvk/leaflet.extras](https://github.com/bhaskarvk/leaflet.extras) - Extra functionality for leaflet R package.
-* [ttvand/Santander-Product-Recommendation](https://github.com/ttvand/Santander-Product-Recommendation) - 2nd Place Solution of the Kaggle Competition - Santander Product Recommendation
-* [vegandevs/vegan](https://github.com/vegandevs/vegan) - R package for community ecologists: popular ordination methods, ecological null models & diversity analysis
-* [paleolimbot/ggspatial](https://github.com/paleolimbot/ggspatial) - A ggplot2 R extension for plotting Spatial* objects
+* [jseidman/hadoop-R](https://github.com/jseidman/hadoop-R) - Example code for running R on Hadoop
+* [wleepang/DesktopDeployR](https://github.com/wleepang/DesktopDeployR) - A framework for deploying self-contained R-based applications to the desktop
 * [ndphillips/VisualResume](https://github.com/ndphillips/VisualResume) - An R package for creating a visual resume
+* [kjhealy/revere](https://github.com/kjhealy/revere) - Finding Paul Revere
+* [jonocarroll/mathpix](https://github.com/jonocarroll/mathpix) - Query the mathpix API to convert math images to LaTeX
+* [hgeorgako/rfortraders](https://github.com/hgeorgako/rfortraders) - Quantitative Trading with R
+* [bhaskarvk/leaflet.extras](https://github.com/bhaskarvk/leaflet.extras) - Extra functionality for leaflet R package.
+* [walkerke/tigris](https://github.com/walkerke/tigris) - Download and use Census TIGER/Line shapefiles in R
+* [trulia/choroplethr](https://github.com/trulia/choroplethr) - choroplethr simplifies the creation of choropleths (thematic maps) in R
+* [renkun-ken/pipeR](https://github.com/renkun-ken/pipeR) - Multi-Paradigm Pipeline Implementation
+* [RamiKrispin/TSstudio](https://github.com/RamiKrispin/TSstudio) - Tools for time series analysis and forecasting
+* [vegandevs/vegan](https://github.com/vegandevs/vegan) - R package for community ecologists: popular ordination methods, ecological null models & diversity analysis
+* [holgerbrandl/r4intellij](https://github.com/holgerbrandl/r4intellij) - An integration of the R programming language into Intellij IDEA
+* [ranalytics/r-tutorials](https://github.com/ranalytics/r-tutorials) - Приложения к книге "Статистический анализ и визуализация данных с помощью R"
+* [HealthCatalyst/healthcareai-r](https://github.com/HealthCatalyst/healthcareai-r) - R tools for healthcare machine learning
+* [ttvand/Santander-Product-Recommendation](https://github.com/ttvand/Santander-Product-Recommendation) - 2nd Place Solution of the Kaggle Competition - Santander Product Recommendation
+* [r-lib/remotes](https://github.com/r-lib/remotes) - Install R packages from GitHub, GitLab, Bitbucket, git, svn repositories, URLs
+* [JohnCoene/echarts4r](https://github.com/JohnCoene/echarts4r) - 🐳 ECharts 4 for R
+* [jeffreyhorner/Rook](https://github.com/jeffreyhorner/Rook) - A web server interface for R
+* [paleolimbot/ggspatial](https://github.com/paleolimbot/ggspatial) - A ggplot2 R extension for plotting Spatial* objects
 * [malcolmbarrett/ggdag](https://github.com/malcolmbarrett/ggdag) - :arrow_lower_left: :arrow_lower_right: An R package for working with causal directed acyclic graphs (DAGs)
 * [JulianHill/R-Tutorials](https://github.com/JulianHill/R-Tutorials) - Code from the r tutorial on my blog
-* [holgerbrandl/r4intellij](https://github.com/holgerbrandl/r4intellij) - An integration of the R programming language into Intellij IDEA
+* [jennybc/gapminder](https://github.com/jennybc/gapminder) - Excerpt from the Gapminder data, as an R data package and in plain text delimited form
 * [BillPetti/baseballr](https://github.com/BillPetti/baseballr) - A package written for R focused on baseball analysis. Currently in development.
-* [walkerke/tigris](https://github.com/walkerke/tigris) - Download and use Census TIGER/Line shapefiles in R
-* [zatonovo/lambda.r](https://github.com/zatonovo/lambda.r) - Functional programming in R
-* [r-lib/zeallot](https://github.com/r-lib/zeallot) - Variable assignment with zeal! (or multiple, unpacking, and destructuring assignment in R)
-* [r-lib/remotes](https://github.com/r-lib/remotes) - Install R packages from GitHub, GitLab, Bitbucket, git, svn repositories, URLs
-* [RamiKrispin/TSstudio](https://github.com/RamiKrispin/TSstudio) - Tools for time series analysis and forecasting
+* [r-lib/cli](https://github.com/r-lib/cli) - Tools for making beautiful & useful command line interfaces
+* [Chicago/RSocrata](https://github.com/Chicago/RSocrata) - Provides easier interaction with Socrata open data portals http://dev.socrata.com. Users can provide a 'Socrata' data set resource URL, or a 'Socrata' Open Data API (SoDA) web query, or a 'Socrata' "human-friendly" URL, returns an R data frame. Converts dates to 'POSIX' format. Manages throttling by 'Socrata'.
 * [vincentarelbundock/countrycode](https://github.com/vincentarelbundock/countrycode) - R package: Convert country names and country codes. Assigns region descriptors.
 * [r-lib/here](https://github.com/r-lib/here) - A simpler way to find your files
+* [zatonovo/lambda.r](https://github.com/zatonovo/lambda.r) - Functional programming in R
 * [kbroman/broman](https://github.com/kbroman/broman) - R/broman: A package with Karl Broman's personal R code
+* [o2r-project/containerit](https://github.com/o2r-project/containerit) - Package an R workspace and all dependencies as a Docker container
 * [edwindj/chunked](https://github.com/edwindj/chunked) - Chunkwise Text-file Processing for 'dplyr'
-* [Chicago/RSocrata](https://github.com/Chicago/RSocrata) - Provides easier interaction with Socrata open data portals http://dev.socrata.com. Users can provide a 'Socrata' data set resource URL, or a 'Socrata' Open Data API (SoDA) web query, or a 'Socrata' "human-friendly" URL, returns an R data frame. Converts dates to 'POSIX' format. Manages throttling by 'Socrata'.
 * [nexr/RHive](https://github.com/nexr/RHive) - RHive is an R extension facilitating distributed computing via Apache Hive.
-* [jennybc/gapminder](https://github.com/jennybc/gapminder) - Excerpt from the Gapminder data, as an R data package and in plain text delimited form
-* [EmilHvitfeldt/paletteer](https://github.com/EmilHvitfeldt/paletteer) - Collection of most color palettes in a single R package  🎨
 * [dataspelunking/MLwR](https://github.com/dataspelunking/MLwR) - Machine Learning with R
 * [clauswilke/colorblindr](https://github.com/clauswilke/colorblindr) - An R package to simulate colorblindness on R figures.
-* [renkun-ken/rlist](https://github.com/renkun-ken/rlist) - A Toolbox for Non-Tabular Data Manipulation
-* [o2r-project/containerit](https://github.com/o2r-project/containerit) - Package an R workspace and all dependencies as a Docker container
-* [HealthCatalyst/healthcareai-r](https://github.com/HealthCatalyst/healthcareai-r) - R tools for healthcare machine learning
-* [gluc/data.tree](https://github.com/gluc/data.tree) - General Purpose Hierarchical Data Structure for R
 * [SymbolixAU/googleway](https://github.com/SymbolixAU/googleway) - R Package for accessing and plotting Google Maps
+* [renkun-ken/rlist](https://github.com/renkun-ken/rlist) - A Toolbox for Non-Tabular Data Manipulation
+* [gluc/data.tree](https://github.com/gluc/data.tree) - General Purpose Hierarchical Data Structure for R
+* [EmilHvitfeldt/paletteer](https://github.com/EmilHvitfeldt/paletteer) - Collection of most color palettes in a single R package  🎨
+* [rstudio/promises](https://github.com/rstudio/promises) - A promise library for R
 * [stefano-meschiari/latex2exp](https://github.com/stefano-meschiari/latex2exp) - Use LaTeX in R. More LaTeX, less plotmath!
-* [r-lib/cli](https://github.com/r-lib/cli) - Tools for making beautiful & useful command line interfaces
 * [ropensci/tokenizers](https://github.com/ropensci/tokenizers) - Fast, Consistent Tokenization of Natural Language Text
+* [NickCH-K/causalgraphs](https://github.com/NickCH-K/causalgraphs) - R code for causal graph animations
 * [mkearney/tidyversity](https://github.com/mkearney/tidyversity) - 🎓 Tidy tools for academics
-* [ColumbusCollaboratory/cognizer](https://github.com/ColumbusCollaboratory/cognizer) - R package to call IBM Watson services.
-* [zatonovo/futile.logger](https://github.com/zatonovo/futile.logger) - A logging package in R similar to log4j
-* [randyzwitch/RSiteCatalyst](https://github.com/randyzwitch/RSiteCatalyst) - R package to access Adobe Analytics Reporting API
 * [pzhaonet/bookdownplus](https://github.com/pzhaonet/bookdownplus) - The easiest way to use R package bookdown for  writing varied types of books and documents
-* [mhahsler/recommenderlab](https://github.com/mhahsler/recommenderlab) - recommenderlab - Lab for Developing and Testing Recommender Algorithms - R package
-* [JohnCoene/echarts4r](https://github.com/JohnCoene/echarts4r) - 🐳 ECharts 4 for R
-* [hadley/assertthat](https://github.com/hadley/assertthat) - User friendly assertions for R
+* [zatonovo/futile.logger](https://github.com/zatonovo/futile.logger) - A logging package in R similar to log4j
 * [Yang-Tang/shinyjqui](https://github.com/Yang-Tang/shinyjqui) - jQuery UI Interactions and Effects for Shiny
-* [wilkox/treemapify](https://github.com/wilkox/treemapify) - 🌳 Draw treemaps in ggplot2
-* [road2stat/liftr](https://github.com/road2stat/liftr) - Containerize R Markdown Documents for Continuous Reproducibility
-* [oscarperpinan/spacetime-vis](https://github.com/oscarperpinan/spacetime-vis) - Sources of the book "Displaying time series, spatial and space-time data with R" (1st Edition)
-* [lockedata/datasauRus](https://github.com/lockedata/datasauRus) - R Package 📦 Containing the Datasaurus Dozen datasets :bar_chart:
+* [randyzwitch/RSiteCatalyst](https://github.com/randyzwitch/RSiteCatalyst) - R package to access Adobe Analytics Reporting API
+* [mhahsler/recommenderlab](https://github.com/mhahsler/recommenderlab) - recommenderlab - Lab for Developing and Testing Recommender Algorithms - R package
 * [joshuaulrich/xts](https://github.com/joshuaulrich/xts) - Extensible time series class that provides uniform handling of many R time series classes by extending zoo.
-* [tidymodels/rsample](https://github.com/tidymodels/rsample) - Classes and functions to create and summarize different types of resampling objects
-* [pivotalsoftware/PivotalR](https://github.com/pivotalsoftware/PivotalR) - An convenient R tool for manipulating tables in PostgreSQL type databases and a wrapper of Apache MADlib.
-* [jmstanto/data-science-r](https://github.com/jmstanto/data-science-r) - R code and documentation for "Introduction to Data Science" by Jeffrey Stanton
 * [ewenme/ghibli](https://github.com/ewenme/ghibli) - Studio Ghibli colour palettes 📦
-* [timelyportfolio/listviewer](https://github.com/timelyportfolio/listviewer) - R htmlwidget to view lists
+* [tidymodels/rsample](https://github.com/tidymodels/rsample) - Classes and functions to create and summarize different types of resampling objects
+* [road2stat/liftr](https://github.com/road2stat/liftr) - Containerize R Markdown Documents for Continuous Reproducibility
+* [lockedata/datasauRus](https://github.com/lockedata/datasauRus) - R Package 📦 Containing the Datasaurus Dozen datasets :bar_chart:
+* [ColumbusCollaboratory/cognizer](https://github.com/ColumbusCollaboratory/cognizer) - R package to call IBM Watson services.
 * [abresler/fundManageR](https://github.com/abresler/fundManageR) - An Investment Management toolkit for R.  Because Excel is a threat to the global financial system.
+* [wilkox/treemapify](https://github.com/wilkox/treemapify) - 🌳 Draw treemaps in ggplot2
 * [trinker/pacman](https://github.com/trinker/pacman) - A package management tools for R
+* [oscarperpinan/spacetime-vis](https://github.com/oscarperpinan/spacetime-vis) - Sources of the book "Displaying time series, spatial and space-time data with R" (1st Edition)
+* [hadley/assertthat](https://github.com/hadley/assertthat) - User friendly assertions for R
+* [timelyportfolio/listviewer](https://github.com/timelyportfolio/listviewer) - R htmlwidget to view lists
+* [pivotalsoftware/PivotalR](https://github.com/pivotalsoftware/PivotalR) - An convenient R tool for manipulating tables in PostgreSQL type databases and a wrapper of Apache MADlib.
+* [Lchiffon/leafletCN](https://github.com/Lchiffon/leafletCN) - An R gallery for China and other geojson choropleth map in leaflet
+* [jmstanto/data-science-r](https://github.com/jmstanto/data-science-r) - R code and documentation for "Introduction to Data Science" by Jeffrey Stanton
+* [Jean-Romain/lidR](https://github.com/Jean-Romain/lidR) - R package for airborne LiDAR data manipulation and visualisation for forestry application
+* [rladies/starter-kit](https://github.com/rladies/starter-kit) - Guidelines for starting up a local R-Ladies chapter :purple_heart: :earth_africa:
+* [rich-iannone/pointblank](https://github.com/rich-iannone/pointblank) - Validation of local and remote data tables
+* [jackwasey/icd](https://github.com/jackwasey/icd) - Fast ICD-10 and ICD-9 comorbidities, decoding and validation in R
 * [docopt/docopt.R](https://github.com/docopt/docopt.R) - Command-line interface description language for R (http://docopt.org)
 * [corynissen/fitbitScraper](https://github.com/corynissen/fitbitScraper) - R package to scrape fitbit data
 * [asardaes/dtwclust](https://github.com/asardaes/dtwclust) - R Package for Time Series Clustering Along with Optimizations for DTW
-* [rstudio/promises](https://github.com/rstudio/promises) - A promise library for R
-* [RLesur/Rcade](https://github.com/RLesur/Rcade) - Games to procrastinate with RStudio
-* [rich-iannone/pointblank](https://github.com/rich-iannone/pointblank) - Validation of local and remote data tables
-* [quanteda/spacyr](https://github.com/quanteda/spacyr) - R wrapper to spaCy NLP
-* [Lchiffon/leafletCN](https://github.com/Lchiffon/leafletCN) - An R gallery for China and other geojson choropleth map in leaflet
-* [rstudio/pool](https://github.com/rstudio/pool) - Object Pooling in R
-* [mikelove/bioc-refcard](https://github.com/mikelove/bioc-refcard) - Bioconductor cheat sheet
-* [Jean-Romain/lidR](https://github.com/Jean-Romain/lidR) - R package for airborne LiDAR data manipulation and visualisation for forestry application
-* [edwindj/whisker](https://github.com/edwindj/whisker) - {{mustache}} for R
-* [r-simmer/simmer](https://github.com/r-simmer/simmer) - Discrete-Event Simulation for R
-* [ropensci/charlatan](https://github.com/ropensci/charlatan) - Create fake data in R
-* [vertica/ddR](https://github.com/vertica/ddR) - Standard API for Distributed Data Structures in R
-* [timelyportfolio/d3r](https://github.com/timelyportfolio/d3r) - d3.js helpers for R
-* [ropensci/textreuse](https://github.com/ropensci/textreuse) - Detect text reuse and document similarity
-* [rOpenGov/eurostat](https://github.com/rOpenGov/eurostat) - R tools for Eurostat data
-* [leeper/meme](https://github.com/leeper/meme) - Meme Generation in R
 * [tidyverts/tsibble](https://github.com/tidyverts/tsibble) - Tidy Temporal Data Frames and Tools
-* [ropensci/stplanr](https://github.com/ropensci/stplanr) - R package providing functions and data access for transport research
+* [edwindj/whisker](https://github.com/edwindj/whisker) - {{mustache}} for R
+* [rstudio/pool](https://github.com/rstudio/pool) - Object Pooling in R
+* [ropensci/charlatan](https://github.com/ropensci/charlatan) - Create fake data in R
+* [RLesur/Rcade](https://github.com/RLesur/Rcade) - Games to procrastinate with RStudio
+* [mikelove/bioc-refcard](https://github.com/mikelove/bioc-refcard) - Bioconductor cheat sheet
+* [timelyportfolio/d3r](https://github.com/timelyportfolio/d3r) - d3.js helpers for R
+* [r-simmer/simmer](https://github.com/r-simmer/simmer) - Discrete-Event Simulation for R
+* [rOpenGov/eurostat](https://github.com/rOpenGov/eurostat) - R tools for Eurostat data
 * [faridcher/machine-learning-course](https://github.com/faridcher/machine-learning-course) - R code for the assignments of Coursera machine learning course
-* [r-spatial/mapedit](https://github.com/r-spatial/mapedit) - Interactive editing of spatial data in R
-* [ropensci/gender](https://github.com/ropensci/gender) - Predict Gender from Names Using Historical Data
+* [AliciaSchep/gglabeller](https://github.com/AliciaSchep/gglabeller) - Shiny gadget for labeling points on ggplot
+* [vertica/ddR](https://github.com/vertica/ddR) - Standard API for Distributed Data Structures in R
+* [ropensci/textreuse](https://github.com/ropensci/textreuse) - Detect text reuse and document similarity
 * [r-lib/bench](https://github.com/r-lib/bench) - High Precision Timing of R Expressions
-* [rladies/starter-kit](https://github.com/rladies/starter-kit) - Guidelines for starting up a local R-Ladies chapter :purple_heart: :earth_africa:
 * [MangoTheCat/rmdshower](https://github.com/MangoTheCat/rmdshower) - R Markdown template for shower
-* [jackwasey/icd](https://github.com/jackwasey/icd) - Fast ICD-10 and ICD-9 comorbidities, decoding and validation in R
-* [beechung/Latent-Factor-Models](https://github.com/beechung/Latent-Factor-Models) - R functions for fitting latent factor models with internal computation in C/C++
-* [r-lib/callr](https://github.com/r-lib/callr) - Call R from R
-* [RevolutionAnalytics/checkpoint](https://github.com/RevolutionAnalytics/checkpoint) - Install R packages from snapshots on checkpoint-server
-* [Microsoft/microsoft-r-open](https://github.com/Microsoft/microsoft-r-open) - Microsoft R Open Source
-* [hms-dbmi/scde](https://github.com/hms-dbmi/scde) - R package for analyzing single-cell RNA-seq data
-* [oswaldosantos/ggsn](https://github.com/oswaldosantos/ggsn) - R package to add north symbols and scale bars to maps created with ggplot or ggmap
+* [leeper/meme](https://github.com/leeper/meme) - Meme Generation in R
+* [r-spatial/mapedit](https://github.com/r-spatial/mapedit) - Interactive editing of spatial data in R
+* [ropensci/stplanr](https://github.com/ropensci/stplanr) - R package providing functions and data access for transport research
 * [OpenIntroStat/openintro-r-package](https://github.com/OpenIntroStat/openintro-r-package) - R Package: openintro
-* [minimaxir/reddit-bigquery](https://github.com/minimaxir/reddit-bigquery) - Code + Jupyter notebook for analyzing and visualizing Reddit Data quickly and easily
 * [bleutner/RStoolbox](https://github.com/bleutner/RStoolbox) - Remote Sensing Analysis in R
-* [robjhyndman/anomalous-acm](https://github.com/robjhyndman/anomalous-acm) - Anomalous time series package for R (ACM)
-* [Keiku/kaggle-airbnb-recruiting-new-user-bookings](https://github.com/Keiku/kaggle-airbnb-recruiting-new-user-bookings) - 2nd Place Solution in Kaggle Airbnb New User Bookings competition
-* [delta-rho/trelliscope](https://github.com/delta-rho/trelliscope) - Detailed Visualization of Large Complex Data in R
 * [statsmaths/cleanNLP](https://github.com/statsmaths/cleanNLP) - R package providing annotators and a tidy data model for natural language processing
-* [rstudio/config](https://github.com/rstudio/config) - config package for R
-* [ropensci/geojsonio](https://github.com/ropensci/geojsonio) - Convert many data formats to & from GeoJSON & TopoJSON
-* [RomanTsegelskyi/rbooks](https://github.com/RomanTsegelskyi/rbooks) - A curated list of #rstats books
+* [smbache/import](https://github.com/smbache/import) - An Import Mechanism For R
 * [r-lib/conflicted](https://github.com/r-lib/conflicted) - An alternative conflict resolution strategy for R
-* [USGS-R/dataRetrieval](https://github.com/USGS-R/dataRetrieval) - This R package is designed to obtain USGS or EPA water quality sample data, streamflow data, and metadata directly from web services
-* [TuGengs/Text_Mining](https://github.com/TuGengs/Text_Mining) - 基于R语言的文本挖掘，用于分析演讲人的情感成分
-* [seankross/lego](https://github.com/seankross/lego) - :smiley: R data package featuring every Lego set from 1970 to 2015
-* [r-lib/rprojroot](https://github.com/r-lib/rprojroot) - Finding files in project subdirectories
-* [datacarpentry/R-ecology-lesson](https://github.com/datacarpentry/R-ecology-lesson) - :notebook: Data Carpentry R lessons on ecology.
-* [ropensci/rnaturalearth](https://github.com/ropensci/rnaturalearth) - :earth_africa: an R package to hold and facilitate interaction with natural earth map data
-* [ropensci/rentrez](https://github.com/ropensci/rentrez) - talk with NCBI entrez using R
-* [MarkEdmondson1234/googleAuthR](https://github.com/MarkEdmondson1234/googleAuthR) - Google API Client Library for R. Easy authentication and help to build Google API R libraries with OAuth2. Shiny compatible.
-* [hadley/secure](https://github.com/hadley/secure) - Secure private R data in public packages
-* [soodoku/tuber](https://github.com/soodoku/tuber) - :sweet_potato: Access YouTube from R
-* [rich-iannone/blastula](https://github.com/rich-iannone/blastula) - Easily send great-looking HTML email messages from R
+* [r-lib/callr](https://github.com/r-lib/callr) - Call R from R
+* [Microsoft/microsoft-r-open](https://github.com/Microsoft/microsoft-r-open) - Microsoft R Open Source
+* [RevolutionAnalytics/checkpoint](https://github.com/RevolutionAnalytics/checkpoint) - Install R packages from snapshots on checkpoint-server
+* [oswaldosantos/ggsn](https://github.com/oswaldosantos/ggsn) - R package to add north symbols and scale bars to maps created with ggplot or ggmap
 * [nik01010/dashboardthemes](https://github.com/nik01010/dashboardthemes) - BETA: custom theme support for R Shinydashboard applications.
 * [mlr-org/mlrMBO](https://github.com/mlr-org/mlrMBO) - Toolbox for Bayesian Optimization and Model-Based Optimization in R
-* [Ironholds/pystr](https://github.com/Ironholds/pystr) - Python String Methods in R.
+* [Keiku/kaggle-airbnb-recruiting-new-user-bookings](https://github.com/Keiku/kaggle-airbnb-recruiting-new-user-bookings) - 2nd Place Solution in Kaggle Airbnb New User Bookings competition
+* [beechung/Latent-Factor-Models](https://github.com/beechung/Latent-Factor-Models) - R functions for fitting latent factor models with internal computation in C/C++
+* [ropensci/gender](https://github.com/ropensci/gender) - Predict Gender from Names Using Historical Data
+* [robjhyndman/anomalous-acm](https://github.com/robjhyndman/anomalous-acm) - Anomalous time series package for R (ACM)
+* [hms-dbmi/scde](https://github.com/hms-dbmi/scde) - R package for analyzing single-cell RNA-seq data
+* [datacarpentry/R-ecology-lesson](https://github.com/datacarpentry/R-ecology-lesson) - :notebook: Data Carpentry R lessons on ecology.
+* [rstudio/config](https://github.com/rstudio/config) - config package for R
+* [rich-iannone/blastula](https://github.com/rich-iannone/blastula) - Easily send great-looking HTML email messages from R
+* [minimaxir/reddit-bigquery](https://github.com/minimaxir/reddit-bigquery) - Code + Jupyter notebook for analyzing and visualizing Reddit Data quickly and easily
+* [SymbolixAU/mapdeck](https://github.com/SymbolixAU/mapdeck) - R interface to Deck.gl and Mapbox
+* [ropensci/geojsonio](https://github.com/ropensci/geojsonio) - Convert many data formats to & from GeoJSON & TopoJSON
+* [RomanTsegelskyi/rbooks](https://github.com/RomanTsegelskyi/rbooks) - A curated list of #rstats books
+* [delta-rho/trelliscope](https://github.com/delta-rho/trelliscope) - Detailed Visualization of Large Complex Data in R
+* [soodoku/tuber](https://github.com/soodoku/tuber) - :sweet_potato: Access YouTube from R
+* [seankross/lego](https://github.com/seankross/lego) - :smiley: R data package featuring every Lego set from 1970 to 2015
+* [ropensci/rentrez](https://github.com/ropensci/rentrez) - talk with NCBI entrez using R
+* [r-lib/rprojroot](https://github.com/r-lib/rprojroot) - Finding files in project subdirectories
+* [hadley/secure](https://github.com/hadley/secure) - Secure private R data in public packages
+* [USGS-R/dataRetrieval](https://github.com/USGS-R/dataRetrieval) - This R package is designed to obtain USGS or EPA water quality sample data, streamflow data, and metadata directly from web services
+* [TuGengs/Text_Mining](https://github.com/TuGengs/Text_Mining) - 基于R语言的文本挖掘，用于分析演讲人的情感成分
+* [ropensci/rnaturalearth](https://github.com/ropensci/rnaturalearth) - :earth_africa: an R package to hold and facilitate interaction with natural earth map data
 * [ehrlinger/ggRandomForests](https://github.com/ehrlinger/ggRandomForests) - Graphical analysis of random forests with the randomForestSRC, randomForest and ggplot2 packages.
-* [ujjwalkarn/xda](https://github.com/ujjwalkarn/xda) - R package for exploratory data analysis
-* [SMAPPNYU/smappR](https://github.com/SMAPPNYU/smappR) - R tools for analysis of Twitter data
-* [juba/explor](https://github.com/juba/explor) - Interfaces for Multivariate Analysis in R
 * [ankane/dbx](https://github.com/ankane/dbx) - A fast, easy-to-use database library for R
 * [abresler/nbastatR](https://github.com/abresler/nbastatR) - NBA Stats API Wrapper and more for R
-* [SymbolixAU/mapdeck](https://github.com/SymbolixAU/mapdeck) - R interface to Deck.gl
-* [ropenscilabs/roomba](https://github.com/ropenscilabs/roomba) - General purpose API response tidier
+* [ryurko/nflscrapR-data](https://github.com/ryurko/nflscrapR-data) - Data files (.csv) accessed with nflscrapR and summarized at the player-level
 * [MatsuuraKentaro/RStanBook](https://github.com/MatsuuraKentaro/RStanBook) - 『StanとRでベイズ統計モデリング』のサポートページです.
+* [MarkEdmondson1234/googleAuthR](https://github.com/MarkEdmondson1234/googleAuthR) - Google API Client Library for R. Easy authentication and help to build Google API R libraries with OAuth2. Shiny compatible.
+* [r-lib/gh](https://github.com/r-lib/gh) - Minimalistic GitHub API client in R
+* [juba/explor](https://github.com/juba/explor) - Interfaces for Multivariate Analysis in R
+* [jennybc/code-smells-and-feels](https://github.com/jennybc/code-smells-and-feels) - Talk on code smells and feels and how to change that via refactoring
+* [Ironholds/pystr](https://github.com/Ironholds/pystr) - Python String Methods in R.
+* [ujjwalkarn/xda](https://github.com/ujjwalkarn/xda) - R package for exploratory data analysis
+* [ropenscilabs/roomba](https://github.com/ropenscilabs/roomba) - General purpose API response tidier
+* [robjhyndman/tsfeatures](https://github.com/robjhyndman/tsfeatures) - Time series features
 * [edgararuiz/dbplot](https://github.com/edgararuiz/dbplot) - Simplifies plotting of database and sparklyr data
 * [bergant/datamodelr](https://github.com/bergant/datamodelr) - Data model diagrams in R
-* [AliciaSchep/gglabeller](https://github.com/AliciaSchep/gglabeller) - Shiny gadget for labeling points on ggplot
-* [trinker/reports](https://github.com/trinker/reports) - An R package to assist in the workflow of writing academic articles and other reports
+* [SMAPPNYU/smappR](https://github.com/SMAPPNYU/smappR) - R tools for analysis of Twitter data
+* [MarkEdmondson1234/ga-dashboard-demo](https://github.com/MarkEdmondson1234/ga-dashboard-demo) - A demo on how to build your own Google Analytics dashboard with R, Shiny and MySQL
+* [kosukeimai/fastLink](https://github.com/kosukeimai/fastLink) - R package fastLink: Fast Probabilistic Record Linkage
 * [gimoya/theBioBucket-Archives](https://github.com/gimoya/theBioBucket-Archives) - R-Code used in my blog theBioBucket
 * [eddelbuettel/drat](https://github.com/eddelbuettel/drat) - Drat R Archive Template
 * [daroczig/fbRads](https://github.com/daroczig/fbRads) - Analyze and manage Facebook ads from R using this client library to access their Marketing APIs
-* [r-lib/gh](https://github.com/r-lib/gh) - Minimalistic GitHub API client in R
-* [quandl/quandl-r](https://github.com/quandl/quandl-r) - This is Quandl's R Package
-* [MarkEdmondson1234/ga-dashboard-demo](https://github.com/MarkEdmondson1234/ga-dashboard-demo) - A demo on how to build your own Google Analytics dashboard with R, Shiny and MySQL
-* [alyssafrazee/ballgown](https://github.com/alyssafrazee/ballgown) - Bioconductor package "ballgown", devel version. Isoform-level differential expression analysis in R.
-* [ropensci/osmplotr](https://github.com/ropensci/osmplotr) - Data visualisation using OpenStreetMap objects
-* [ropensci/jqr](https://github.com/ropensci/jqr) - R interface to jq
 * [cloudly/Play-Econometrics-with-R](https://github.com/cloudly/Play-Econometrics-with-R) - a brochure about "Play Econometrics with R"
-* [yihui/printr](https://github.com/yihui/printr) - Some (magical) printing methods for knitr
+* [alyssafrazee/ballgown](https://github.com/alyssafrazee/ballgown) - Bioconductor package "ballgown", devel version. Isoform-level differential expression analysis in R.
+* [trinker/reports](https://github.com/trinker/reports) - An R package to assist in the workflow of writing academic articles and other reports
+* [ropensci/osmplotr](https://github.com/ropensci/osmplotr) - Data visualisation using OpenStreetMap objects
+* [ropenscilabs/learngganimate](https://github.com/ropenscilabs/learngganimate) - A living, breathing community exploration of  the gganimate R package. A rOpenSci #ozunconf2018 project
+* [quandl/quandl-r](https://github.com/quandl/quandl-r) - This is Quandl's R Package
+* [brodieG/diffobj](https://github.com/brodieG/diffobj) - Compare R Objects with a Diff
+* [rstudio/radix](https://github.com/rstudio/radix) - Radix for R Markdown
+* [ropensci/jqr](https://github.com/ropensci/jqr) - R interface to jq
 * [mllg/checkmate](https://github.com/mllg/checkmate) - Fast and versatile argument checks
-* [kosukeimai/fastLink](https://github.com/kosukeimai/fastLink) - R package fastLink: Fast Probabilistic Record Linkage
+* [yihui/printr](https://github.com/yihui/printr) - Some (magical) printing methods for knitr
+* [sckott/analogsea](https://github.com/sckott/analogsea) - Digital Ocean R client
+* [mkearney/pkgverse](https://github.com/mkearney/pkgverse) - 📦🔭🌠 Create your own universe of packages à la tidyverse
+* [HenrikBengtsson/matrixStats](https://github.com/HenrikBengtsson/matrixStats) - R package: Methods that Apply to Rows and Columns of Matrices (and to Vectors)
+* [dselivanov/rsparse](https://github.com/dselivanov/rsparse) - Fast and accurate machine learning on sparse matrices - matrix factorizations, regression, classification, top-N recommendations.
 * [cpsievert/pitchRx](https://github.com/cpsievert/pitchRx) - Tools for scraping MLB Gameday data and Visualizing PITCHf/x
 * [bwlewis/rredis](https://github.com/bwlewis/rredis) - R client for Redis
-* [brodieG/diffobj](https://github.com/brodieG/diffobj) - Compare R Objects with a Diff
-* [smbache/import](https://github.com/smbache/import) - An Import Mechanism For R
-* [sckott/analogsea](https://github.com/sckott/analogsea) - Digital Ocean R client
-* [jthaman/ciTools](https://github.com/jthaman/ciTools) - An R Package for Quick Uncertainty Intervals
-* [HenrikBengtsson/matrixStats](https://github.com/HenrikBengtsson/matrixStats) - R package: Methods that Apply to Rows and Columns of Matrices (and to Vectors)
-* [edwindj/daff](https://github.com/edwindj/daff) - Diff, patch and merge for data.frames, see  http://paulfitz.github.io/daff/
-* [aloysius-lim/bigrf](https://github.com/aloysius-lim/bigrf) - Random forests for R for large data sets, optimized with parallel tree-growing and disk-based memory
 * [yihui/recharts](https://github.com/yihui/recharts) - An R Interface to ECharts
-* [ryurko/nflscrapR-data](https://github.com/ryurko/nflscrapR-data) - Data files (.csv) accessed with nflscrapR and summarized at the player-level
+* [ropensci/googleLanguageR](https://github.com/ropensci/googleLanguageR) - R client for the Google Translation API, Google Cloud Natural Language API and Google Cloud Speech API
+* [jthaman/ciTools](https://github.com/jthaman/ciTools) - An R Package for Quick Uncertainty Intervals
 * [hadley/lazyeval](https://github.com/hadley/lazyeval) - Lazy evaluation: an alternative to non-standard evaluation (NSE) for R
-* [dselivanov/rsparse](https://github.com/dselivanov/rsparse) - Fast and accurate machine learning on sparse matrices - matrix factorizations, regression, classification, top-N recommendations.
-* [metacran/mason](https://github.com/metacran/mason) - A friendly craftsman that builds you great R packages
+* [edwindj/daff](https://github.com/edwindj/daff) - Diff, patch and merge for data.frames, see  http://paulfitz.github.io/daff/
+* [dmi3kno/polite](https://github.com/dmi3kno/polite) - Be nice on the web
+* [aloysius-lim/bigrf](https://github.com/aloysius-lim/bigrf) - Random forests for R for large data sets, optimized with parallel tree-growing and disk-based memory
 * [joshkatz/r-script](https://github.com/joshkatz/r-script) - A simple little module for passing data from NodeJS to R (and back again).
 * [hrbrmstr/sergeant](https://github.com/hrbrmstr/sergeant) - :guardsman: Tools to Transform and Query Data with 'Apache' 'Drill'
 * [eddelbuettel/anytime](https://github.com/eddelbuettel/anytime) - Anything to POSIXct or Date Converter
-* [rstudio/radix](https://github.com/rstudio/radix) - Radix for R Markdown
-* [ropenscilabs/umapr](https://github.com/ropenscilabs/umapr) - UMAP dimensionality reduction in R
-* [ropensci/googleLanguageR](https://github.com/ropensci/googleLanguageR) - R client for the Google Translation API, Google Cloud Natural Language API and Google Cloud Speech API
-* [robjhyndman/tsfeatures](https://github.com/robjhyndman/tsfeatures) - Time series features
-* [mkearney/pkgverse](https://github.com/mkearney/pkgverse) - 📦🔭🌠 Create your own universe of packages à la tidyverse
 * [chrisalbon/code_r](https://github.com/chrisalbon/code_r) - Collection of R Scripts for Reuse
+* [Tazinho/Advanced-R-Solutions](https://github.com/Tazinho/Advanced-R-Solutions) - Set of solutions for the Advanced R programming book
+* [r-lib/keyring](https://github.com/r-lib/keyring) - :closed_lock_with_key: Access the system credential store from R
+* [metacran/mason](https://github.com/metacran/mason) - A friendly craftsman that builds you great R packages
+* [ropenscilabs/umapr](https://github.com/ropenscilabs/umapr) - UMAP dimensionality reduction in R
+* [RobWHickman/ggparliament](https://github.com/RobWHickman/ggparliament) - Simple parliament plots using ggplot2
+* [R-ArcGIS/r-sample-tools](https://github.com/R-ArcGIS/r-sample-tools) -  Sample tools illustrating R usage in geoprocessing scripts
+* [omarwagih/ggseqlogo](https://github.com/omarwagih/ggseqlogo) - Publication-quality sequence logos in R
+* [jlmelville/uwot](https://github.com/jlmelville/uwot) - An R package implementing the UMAP dimensionality reduction method.
 * [BioinformaticsFMRP/TCGAbiolinks](https://github.com/BioinformaticsFMRP/TCGAbiolinks) - TCGAbiolinks
 * [andrie/miniCRAN](https://github.com/andrie/miniCRAN) - R package to create internally consistent, mini version of CRAN
 * [swarm-lab/Rvision](https://github.com/swarm-lab/Rvision) - Basic computer vision library for R
 * [statsmaths/kerasR](https://github.com/statsmaths/kerasR) - R interface to the keras library
-* [RobWHickman/ggparliament](https://github.com/RobWHickman/ggparliament) - Simple parliament plots using ggplot2
 * [Pakillo/template](https://github.com/Pakillo/template) - A template for research projects structured as R packages
-* [omarwagih/ggseqlogo](https://github.com/omarwagih/ggseqlogo) - Publication-quality sequence logos in R
-* [jlmelville/uwot](https://github.com/jlmelville/uwot) - An R package implementing the UMAP dimensionality reduction method.
-* [r-lib/keyring](https://github.com/r-lib/keyring) - :closed_lock_with_key: Access the system credential store from R
-* [R-ArcGIS/r-sample-tools](https://github.com/R-ArcGIS/r-sample-tools) -  Sample tools illustrating R usage in geoprocessing scripts
 * [pablobarbera/streamR](https://github.com/pablobarbera/streamR) - Dev version of streamR package: Access to Twitter Streaming API via R
 * [mplatzer/BTYDplus](https://github.com/mplatzer/BTYDplus) - R package for Customer Behavior Analysis
-* [cosname/art-r-translation](https://github.com/cosname/art-r-translation) - 《R语言编程艺术》翻译项目文件
-* [r-lib/vctrs](https://github.com/r-lib/vctrs) - Vector types
-* [davidgohel/flextable](https://github.com/davidgohel/flextable) - table farming
-* [patperry/r-utf8](https://github.com/patperry/r-utf8) - UTF-8 Text Processing (R Package)
-* [johannesbjork/LaCroixColoR](https://github.com/johannesbjork/LaCroixColoR) - LaCroix Color Palettes for R.
 * [dreamRs/billboarder](https://github.com/dreamRs/billboarder) - :bar_chart: Htmlwidget for billboard.js
-* [decryptr/decryptr](https://github.com/decryptr/decryptr) - An extensible API for breaking captchas
-* [adletaw/captioner](https://github.com/adletaw/captioner) - an R package for generating figure/table numbers and captions, especially for Rmd docs
-* [robjhyndman/anomalous](https://github.com/robjhyndman/anomalous) - Anomalous time series package for R
+* [cosname/art-r-translation](https://github.com/cosname/art-r-translation) - 《R语言编程艺术》翻译项目文件
+* [thomasp85/scico](https://github.com/thomasp85/scico) - Palettes for R based on the Scientific Colour-Maps
+* [r-lib/vctrs](https://github.com/r-lib/vctrs) - Vector types
 * [PecanProject/pecan](https://github.com/PecanProject/pecan) - The Predictive Ecosystem Analyzer (PEcAn) is an integrated ecological bioinformatics toolbox.
+* [ndphillips/FFTrees](https://github.com/ndphillips/FFTrees) - An R package to create and visualise fast-and-frugal decision trees (FFTs)
+* [decryptr/decryptr](https://github.com/decryptr/decryptr) - An extensible API for breaking captchas
+* [davidgohel/flextable](https://github.com/davidgohel/flextable) - table farming
+* [robjhyndman/anomalous](https://github.com/robjhyndman/anomalous) - Anomalous time series package for R
+* [patperry/r-utf8](https://github.com/patperry/r-utf8) - UTF-8 Text Processing (R Package)
+* [mkearney/textfeatures](https://github.com/mkearney/textfeatures) - 👷‍♂️ A simple package for extracting useful features from character objects 👷‍♀️
+* [johannesbjork/LaCroixColoR](https://github.com/johannesbjork/LaCroixColoR) - LaCroix Color Palettes for R.
+* [adletaw/captioner](https://github.com/adletaw/captioner) - an R package for generating figure/table numbers and captions, especially for Rmd docs
+* [ropensci/rgbif](https://github.com/ropensci/rgbif) - Interface to the Global Biodiversity Information Facility API
+* [REditorSupport/languageserver](https://github.com/REditorSupport/languageserver) - An implementation of the Language Server Protocol for R
 * [Kaggle/docker-rstats](https://github.com/Kaggle/docker-rstats) - Kaggle R docker image
-* [jennybc/code-smells-and-feels](https://github.com/jennybc/code-smells-and-feels) - Talk on code smells and feels and how to change that via refactoring
 * [FujitsuLaboratories/COMEVIZZ](https://github.com/FujitsuLaboratories/COMEVIZZ) - COMEVIZZ is COde MEtrics VIsualiZation with Z-Score.
 * [dirkschumacher/llr](https://github.com/dirkschumacher/llr) - Lisp-like-R: A lisp that compiles to R in R
-* [ropensci/rgbif](https://github.com/ropensci/rgbif) - Interface to the Global Biodiversity Information Facility API
-* [Tazinho/Advanced-R-Solutions](https://github.com/Tazinho/Advanced-R-Solutions) - Set of solutions for the Advanced R programming book
-* [szcf-weiya/ESL-CN](https://github.com/szcf-weiya/ESL-CN) - The Elements of Statistical Learning (ESL)的中文翻译、代码实现及其习题解答。
+* [bergant/finstr](https://github.com/bergant/finstr) - :chart_with_upwards_trend: Financial statements in R
 * [ropensci/monkeylearn](https://github.com/ropensci/monkeylearn) - :monkey: R package for text analysis with Monkeylearn :monkey:
-* [ropenscilabs/available](https://github.com/ropenscilabs/available) - Check if a package name is available to use
+* [richfitz/stevedore](https://github.com/richfitz/stevedore) - :cloud::rowboat::whale::cloud: Docker client for R
+* [noamross/nyhackr-docker-talk](https://github.com/noamross/nyhackr-docker-talk) - Slides, Code, and Links to Resources from "Docker for the User," delivered at nyhackr 2018-07-11
+* [mllg/batchtools](https://github.com/mllg/batchtools) - Tools for computation on batch systems
+* [jburkhardt/RAdwords](https://github.com/jburkhardt/RAdwords) - Loading Google Adwords Data into R
+* [cutterkom/generativeart](https://github.com/cutterkom/generativeart) - Create Generative Art with R
+* [seananderson/glmm-course](https://github.com/seananderson/glmm-course) - Workshop exercises on regression, GLMs, mixed-effects models, and GLMMs in R
 * [prestodb/RPresto](https://github.com/prestodb/RPresto) - DBI-based adapter for Presto for the statistical programming language R.
 * [nacnudus/unpivotr](https://github.com/nacnudus/unpivotr) - Unpivot complex and irregular data layouts in R
-* [jburkhardt/RAdwords](https://github.com/jburkhardt/RAdwords) - Loading Google Adwords Data into R
-* [yihui/runr](https://github.com/yihui/runr) - Run external programs from R (experimental)
-* [thomasp85/scico](https://github.com/thomasp85/scico) - Palettes for R based on the Scientific Colour-Maps
-* [seanchrismurphy/A-Psychologists-Guide-to-R](https://github.com/seanchrismurphy/A-Psychologists-Guide-to-R) - A repository containing the course notes and worked examples for a six week course in the R statistical programming language aimed at helping psychology students and faculty to learn R. This course was taught live at the University of Melbourne, Australia in 2016.
-* [REditorSupport/languageserver](https://github.com/REditorSupport/languageserver) - An implementation of the Language Server Protocol for R
-* [mllg/batchtools](https://github.com/mllg/batchtools) - Tools for computation on batch systems
-* [johnmyleswhite/RDatasets.jl](https://github.com/johnmyleswhite/RDatasets.jl) - Julia package for loading many of the data sets available in R
-* [bergant/finstr](https://github.com/bergant/finstr) - :chart_with_upwards_trend: Financial statements in R
-* [Azure/doAzureParallel](https://github.com/Azure/doAzureParallel) - A R package that allows users to submit parallel workloads in Azure
-* [noamross/nyhackr-docker-talk](https://github.com/noamross/nyhackr-docker-talk) - Slides, Code, and Links to Resources from "Docker for the User," delivered at nyhackr 2018-07-11
-* [hilaryparker/mansplainr](https://github.com/hilaryparker/mansplainr) - Mansplaining R
 * [cloudyr/MTurkR](https://github.com/cloudyr/MTurkR) - R Client for the MTurk Requester API
-* [agstudy/rsqlserver](https://github.com/agstudy/rsqlserver) - Sql Server driver  database interface (DBI) driver for R. This is a DBI-compliant Sql Server driver based on the System.Data.SqlClient.
+* [Azure/doAzureParallel](https://github.com/Azure/doAzureParallel) - A R package that allows users to submit parallel workloads in Azure
+* [yihui/runr](https://github.com/yihui/runr) - Run external programs from R (experimental)
+* [susanli2016/Data-Analysis-with-R](https://github.com/susanli2016/Data-Analysis-with-R) - Using gglot2, tidyr, dplyr, ggmap, choroplethr, shiny, logistic regression, clustering models and more
+* [seanchrismurphy/A-Psychologists-Guide-to-R](https://github.com/seanchrismurphy/A-Psychologists-Guide-to-R) - A repository containing the course notes and worked examples for a six week course in the R statistical programming language aimed at helping psychology students and faculty to learn R. This course was taught live at the University of Melbourne, Australia in 2016.
+* [ropenscilabs/available](https://github.com/ropenscilabs/available) - Check if a package name is available to use
+* [johnmyleswhite/RDatasets.jl](https://github.com/johnmyleswhite/RDatasets.jl) - Julia package for loading many of the data sets available in R
+* [wilkox/ggfittext](https://github.com/wilkox/ggfittext) - 🔠 ggplot2 geoms to fit text into boxes
+* [stephenturner/qqman](https://github.com/stephenturner/qqman) - An R package for creating Q-Q and manhattan plots from GWAS results
 * [r-quantities/units](https://github.com/r-quantities/units) - Measurement units for R
 * [ropensci/biomartr](https://github.com/ropensci/biomartr) - Genomic Data Retrieval with R
-* [nteetor/prairie](https://github.com/nteetor/prairie) - Get web applications growing in R
 * [hrbrmstr/docxtractr](https://github.com/hrbrmstr/docxtractr) - :scissors: Extract Tables from Microsoft Word Documents with R
+* [hilaryparker/mansplainr](https://github.com/hilaryparker/mansplainr) - Mansplaining R
+* [agstudy/rsqlserver](https://github.com/agstudy/rsqlserver) - Sql Server driver  database interface (DBI) driver for R. This is a DBI-compliant Sql Server driver based on the System.Data.SqlClient.
+* [yonicd/carbonate](https://github.com/yonicd/carbonate) - carbon.js for R
+* [ropensci/gistr](https://github.com/ropensci/gistr) - Interact with GitHub gists from R
+* [nteetor/prairie](https://github.com/nteetor/prairie) - Get web applications growing in R
+* [mdlincoln/clipr](https://github.com/mdlincoln/clipr) - R functions for reading and writing from the system clipboard
 * [ateucher/rmapshaper](https://github.com/ateucher/rmapshaper) - An R wrapper for the mapshaper javascript library
 * [wch/harbor](https://github.com/wch/harbor) - An R package for controlling docker containers on local and remote hosts
-* [susanli2016/Data-Analysis-with-R](https://github.com/susanli2016/Data-Analysis-with-R) - Using gglot2, tidyr, dplyr, ggmap, choroplethr, shiny, logistic regression, clustering models and more
-* [stephenturner/qqman](https://github.com/stephenturner/qqman) - An R package for creating Q-Q and manhattan plots from GWAS results
-* [seananderson/glmm-course](https://github.com/seananderson/glmm-course) - Workshop exercises on regression, GLMs, mixed-effects models, and GLMMs in R
-* [ropensci/gistr](https://github.com/ropensci/gistr) - Interact with GitHub gists from R
-* [ndphillips/FFTrees](https://github.com/ndphillips/FFTrees) - An R package to create and visualise fast-and-frugal decision trees (FFTs)
-* [mdlincoln/clipr](https://github.com/mdlincoln/clipr) - R functions for reading and writing from the system clipboard
+* [m-clark/Miscellaneous-R-Code](https://github.com/m-clark/Miscellaneous-R-Code) - Code that might be useful to others for learning/demonstration purposes.
 * [ggobi/cranvas](https://github.com/ggobi/cranvas) - Interactive graphics in R using Qt interfaces, a descendant of ggobi software
-* [crowding/vadr](https://github.com/crowding/vadr) - Making R a better language
-* [mkearney/textfeatures](https://github.com/mkearney/textfeatures) - 👷‍♂️ A simple package for extracting useful features from character objects 👷‍♀️
+* [beanumber/openWAR](https://github.com/beanumber/openWAR) - An R package enabling the computation of openWAR using MLBAM data
+* [XD-DENG/ECharts2Shiny](https://github.com/XD-DENG/ECharts2Shiny) - To insert interactive charts from ECharts into R Shiny applications (在R Shiny app中插入ECharts可交互图形)
+* [skranz/RTutor](https://github.com/skranz/RTutor) - Creating interactive R Problem Sets. Automatic hints and solution checks. (Shiny or RStudio)
+* [hrbrmstr/statebins](https://github.com/hrbrmstr/statebins) - Alternative to choropleths of US States ala http://bit.ly/statebins
+* [gaborcsardi/prompt](https://github.com/gaborcsardi/prompt) - Dynamic R prompt
 * [christophsax/seasonal](https://github.com/christophsax/seasonal) - R interface to X-13ARIMA-SEATS
 * [charlie86/spotifyr](https://github.com/charlie86/spotifyr) - R wrapper for Spotify's Web API
-* [yonicd/carbonate](https://github.com/yonicd/carbonate) - carbon.js for R
-* [XD-DENG/ECharts2Shiny](https://github.com/XD-DENG/ECharts2Shiny) - To insert interactive charts from ECharts into R Shiny applications (在R Shiny app中插入ECharts可交互图形)
-* [wilkox/ggfittext](https://github.com/wilkox/ggfittext) - 🔠 ggplot2 geoms to fit text into boxes
-* [m-clark/Miscellaneous-R-Code](https://github.com/m-clark/Miscellaneous-R-Code) - Code that might be useful to others for learning/demonstration purposes.
-* [MarkEdmondson1234/searchConsoleR](https://github.com/MarkEdmondson1234/searchConsoleR) - R interface with Google Search Console API v3, including Search Analytics.
-* [hrbrmstr/statebins](https://github.com/hrbrmstr/statebins) - Alternative to choropleths of US States ala http://bit.ly/statebins
-* [datacamp/datacamp](https://github.com/datacamp/datacamp) - R package to create interactive courses for www.datacamp.com
-* [beanumber/openWAR](https://github.com/beanumber/openWAR) - An R package enabling the computation of openWAR using MLBAM data
-* [skranz/RTutor](https://github.com/skranz/RTutor) - Creating interactive R Problem Sets. Automatic hints and solution checks. (Shiny or RStudio)
 * [r-lib/debugme](https://github.com/r-lib/debugme) - Easy and efficient debugging for R packages
 * [miraisolutions/xlconnect](https://github.com/miraisolutions/xlconnect) - XLConnect: Excel Connector for R
 * [MilesMcBain/friendlyeval](https://github.com/MilesMcBain/friendlyeval) - A friendly interface to tidyeval/rlang that will excuse itself when you're done.
+* [MarkEdmondson1234/searchConsoleR](https://github.com/MarkEdmondson1234/searchConsoleR) - R interface with Google Search Console API v3, including Search Analytics.
+* [datacamp/datacamp](https://github.com/datacamp/datacamp) - R package to create interactive courses for www.datacamp.com
+* [crowding/vadr](https://github.com/crowding/vadr) - Making R a better language
+* [cbail/textnets](https://github.com/cbail/textnets) - R package to perform automated text analysis using network techniques
+* [ropensci/ezknitr](https://github.com/ropensci/ezknitr) - Avoid the typical working directory pain when using 'knitr'
+* [lockedata/pRojects](https://github.com/lockedata/pRojects) - R Package 📦 for making projects for various R activities :nut_and_bolt:
+* [lindbrook/cholera](https://github.com/lindbrook/cholera) - R Package for Analyzing John Snow's 1854 Cholera Map
 * [jdeboer/ganalytics](https://github.com/jdeboer/ganalytics) - Interact with Google Analytics using R
 * [hadley/babynames](https://github.com/hadley/babynames) - An R package contain all baby names data from the SSA
-* [dmi3kno/polite](https://github.com/dmi3kno/polite) - Be nice on the web
-* [tudo-r/BatchJobs](https://github.com/tudo-r/BatchJobs) - BatchJobs: Batch computing with R
-* [rbertolusso/intubate](https://github.com/rbertolusso/intubate) - <||> Interfaces to Popular R Functions for Data Science Pipelines, and More
-* [lindbrook/cholera](https://github.com/lindbrook/cholera) - R Package for Analyzing John Snow's 1854 Cholera Map
-* [johnmyleswhite/r_recommendation_system](https://github.com/johnmyleswhite/r_recommendation_system) - Data and code for the Dataists R recommendation system contest
-* [garrettgman/ggsubplot](https://github.com/garrettgman/ggsubplot) - Embed subplots in ggplot2 graphics in R
 * [WinVector/wrapr](https://github.com/WinVector/wrapr) - Wrap R Functions for Debugging and Ease of Use
-* [philchalmers/mirt](https://github.com/philchalmers/mirt) - Multidimensional item response theory
-* [opensdmx/rsdmx](https://github.com/opensdmx/rsdmx) - Tools for reading SDMX data and metadata in R
-* [mewo2/medley](https://github.com/mewo2/medley) - A system for blending regression models in R
-* [kaz-yos/tableone](https://github.com/kaz-yos/tableone) - R package to create "Table 1", description of baseline characteristics
-* [jalapic/RPackage](https://github.com/jalapic/RPackage) - Materials for writing an R Package
-* [cpsievert/rdom](https://github.com/cpsievert/rdom) - Render and parse dynamic web pages from R
-* [cbail/textnets](https://github.com/cbail/textnets) - R package to perform automated text analysis using network techniques
-* [aoles/shinyURL](https://github.com/aoles/shinyURL) - :link: Save and restore the state of Shiny app's widgets by encoding them in an URL query string
-* [youngwoos/Doit_R](https://github.com/youngwoos/Doit_R) - <Do it! 쉽게 배우는 R 데이터 분석> 저장소
-* [Xiaodan/Coursera-R-Programming](https://github.com/Xiaodan/Coursera-R-Programming) - Repo for Coursera.com online course: R Programming
-* [smbache/loggr](https://github.com/smbache/loggr) - Easy and flexible logging for R
+* [tudo-r/BatchJobs](https://github.com/tudo-r/BatchJobs) - BatchJobs: Batch computing with R
 * [ropensci/rcrossref](https://github.com/ropensci/rcrossref) - R client for various CrossRef APIs
-* [ropensci/ezknitr](https://github.com/ropensci/ezknitr) - Avoid the typical working directory pain when using 'knitr'
-* [richfitz/stevedore](https://github.com/richfitz/stevedore) - :cloud::rowboat::whale::cloud: Docker client for R
-* [mtennekes/tabplot](https://github.com/mtennekes/tabplot) - R package for tableplot visualisation
-* [flaviobarros/shiny-wordcloud](https://github.com/flaviobarros/shiny-wordcloud) - Example dockerized Shiny App
-* [boboppie/kruschke-doing_bayesian_data_analysis](https://github.com/boboppie/kruschke-doing_bayesian_data_analysis) - John K. Kruschke's Doing Bayesian Data Analysis:  A Tutorial with R and BUGS
+* [rbertolusso/intubate](https://github.com/rbertolusso/intubate) - <||> Interfaces to Popular R Functions for Data Science Pipelines, and More
+* [philchalmers/mirt](https://github.com/philchalmers/mirt) - Multidimensional item response theory
+* [Oshlack/scRNA-tools](https://github.com/Oshlack/scRNA-tools) - Table of software for the analysis of single-cell RNA-seq data.
+* [kaz-yos/tableone](https://github.com/kaz-yos/tableone) - R package to create "Table 1", description of baseline characteristics
+* [johnmyleswhite/r_recommendation_system](https://github.com/johnmyleswhite/r_recommendation_system) - Data and code for the Dataists R recommendation system contest
+* [jalapic/RPackage](https://github.com/jalapic/RPackage) - Materials for writing an R Package
+* [garrettgman/ggsubplot](https://github.com/garrettgman/ggsubplot) - Embed subplots in ggplot2 graphics in R
+* [cpsievert/rdom](https://github.com/cpsievert/rdom) - Render and parse dynamic web pages from R
+* [youngwoos/Doit_R](https://github.com/youngwoos/Doit_R) - <Do it! 쉽게 배우는 R 데이터 분석> 저장소
 * [stephenturner/annotables](https://github.com/stephenturner/annotables) - R data package for annotating/converting Gene IDs
 * [rstudio/rstudioapi](https://github.com/rstudio/rstudioapi) - Safely access RStudio's API (when available)
-* [rstudio/fontawesome](https://github.com/rstudio/fontawesome) - Easily insert FontAwesome icons into R Markdown docs and Shiny apps
-* [Oshlack/scRNA-tools](https://github.com/Oshlack/scRNA-tools) - Table of software for the analysis of single-cell RNA-seq data.
+* [r-spatialecology/landscapemetrics](https://github.com/r-spatialecology/landscapemetrics) - Landscape Metrics for Categorical Map Patterns 🗺️ in R
+* [ropensci/DataPackageR](https://github.com/ropensci/DataPackageR) - An R package to enable reproducible data processing, packaging and sharing.
+* [opensdmx/rsdmx](https://github.com/opensdmx/rsdmx) - Tools for reading SDMX data and metadata in R
+* [mewo2/medley](https://github.com/mewo2/medley) - A system for blending regression models in R
+* [dselivanov/RestRserve](https://github.com/dselivanov/RestRserve) - [work-in-progress] RestRserve is a R web API framework for building high-performance microservices and app backends
+* [Appsilon/shiny.router](https://github.com/Appsilon/shiny.router) - A minimalistic router for your Shiny apps.
+* [aoles/shinyURL](https://github.com/aoles/shinyURL) - :link: Save and restore the state of Shiny app's widgets by encoding them in an URL query string
+* [16EAGLE/getSpatialData](https://github.com/16EAGLE/getSpatialData) - An R package 📦 making it easy to query, preview, download and preprocess multiple kinds of spatial data 🛰 via R. All beta.
+* [Xiaodan/Coursera-R-Programming](https://github.com/Xiaodan/Coursera-R-Programming) - Repo for Coursera.com online course: R Programming
+* [smbache/loggr](https://github.com/smbache/loggr) - Easy and flexible logging for R
+* [pablobarbera/instaR](https://github.com/pablobarbera/instaR) - Dev version of instaR package: Access to Instagram API via R
+* [mtennekes/tabplot](https://github.com/mtennekes/tabplot) - R package for tableplot visualisation
 * [mlr-org/shinyMlr](https://github.com/mlr-org/shinyMlr) - shiny-mlr: Integration of the mlr package into shiny
 * [jeremystan/tidyjson](https://github.com/jeremystan/tidyjson) - Tidy your JSON data in R with tidyjson
-* [dselivanov/RestRserve](https://github.com/dselivanov/RestRserve) - [work-in-progress] RestRserve is a R web API framework for building high-performance microservices and app backends
+* [HenrikBengtsson/future.apply](https://github.com/HenrikBengtsson/future.apply) - :rocket: R package: future.apply -  Apply Function to Elements in Parallel using Futures
+* [flaviobarros/shiny-wordcloud](https://github.com/flaviobarros/shiny-wordcloud) - Example dockerized Shiny App
+* [boboppie/kruschke-doing_bayesian_data_analysis](https://github.com/boboppie/kruschke-doing_bayesian_data_analysis) - John K. Kruschke's Doing Bayesian Data Analysis:  A Tutorial with R and BUGS
 * [TommyJones/textmineR](https://github.com/TommyJones/textmineR) - An aid for text mining in R, with a syntax that should be familiar to experienced R users. Provides a wrapper for several topic models that take similarly-formatted input and give similarly-formatted output. Has additional functionality for analyzing and diagnostics for topic models.
 * [Tazinho/snakecase](https://github.com/Tazinho/snakecase) - 🐍🐍🐍 A systematic approach to parse strings and automate the conversion to snake_case, UpperCamelCase or any other case.
-* [r-spatialecology/landscapemetrics](https://github.com/r-spatialecology/landscapemetrics) - Landscape Metrics for Categorical Map Patterns 🗺️ in R
-* [richarddmorey/BayesFactor](https://github.com/richarddmorey/BayesFactor) - BayesFactor R package for Bayesian data analysis with common statistical models.
-* [pablobarbera/instaR](https://github.com/pablobarbera/instaR) - Dev version of instaR package: Access to Instagram API via R
-* [lockedata/pRojects](https://github.com/lockedata/pRojects) - R Package 📦 for making projects for various R activities :nut_and_bolt:
-* [juliasilge/janeaustenr](https://github.com/juliasilge/janeaustenr) - An R Package for Jane Austen's Complete Novels :orange_book:
-* [HenrikBengtsson/future.apply](https://github.com/HenrikBengtsson/future.apply) - :rocket: R package: future.apply -  Apply Function to Elements in Parallel using Futures
-* [Appsilon/shiny.router](https://github.com/Appsilon/shiny.router) - A minimalistic router for your Shiny apps.
-* [WinVector/WVPlots](https://github.com/WinVector/WVPlots) - Pre-packaged plots in R
-* [pingles/redshift-r](https://github.com/pingles/redshift-r) - Small R package for accessing Redshift
-* [hrbrmstr/newsflash](https://github.com/hrbrmstr/newsflash) - Tools to Work with the Internet Archive and GDELT Television Explorer in R
+* [strengejacke/sjstats](https://github.com/strengejacke/sjstats) - Statistical Functions for Regression Models
 * [spatstat/spatstat](https://github.com/spatstat/spatstat) - Development version of 'spatstat' package ..............................
-* [pablobarbera/Rdataviz](https://github.com/pablobarbera/Rdataviz) - Materials for workshop "Data Visualization with R and ggplot2"
-* [mpiccirilli/Rlinkedin](https://github.com/mpiccirilli/Rlinkedin) - Dev version of access to LinkedIn API via R
+* [rstudio/fontawesome](https://github.com/rstudio/fontawesome) - Easily insert FontAwesome icons into R Markdown docs and Shiny apps
+* [edgararuiz/tidypredict](https://github.com/edgararuiz/tidypredict) - Run predictions inside the database
+* [bbolker/broom.mixed](https://github.com/bbolker/broom.mixed) - tidy methods for mixed models in R
+* [strengejacke/sjmisc](https://github.com/strengejacke/sjmisc) - Data transformation and utility functions for R
+* [royfrancis/pophelper](https://github.com/royfrancis/pophelper) - An R package to analyse and visualise admixture proportions from STRUCTURE, fastSTRUCTURE, TESS, ADMIXTURE etc.
+* [richarddmorey/BayesFactor](https://github.com/richarddmorey/BayesFactor) - BayesFactor R package for Bayesian data analysis with common statistical models.
 * [microbiome/microbiome](https://github.com/microbiome/microbiome) - microbiome R package
-* [maddin79/darch](https://github.com/maddin79/darch) - Create deep architectures in the R programming language
-* [jknowles/r_tutorial_ed](https://github.com/jknowles/r_tutorial_ed) - R Tutorial for Educational Data Users
-* [JesseVent/crypto](https://github.com/JesseVent/crypto) - Cryptocurrency Historical Market Data R Package
-* [ijlyttle/bsplus](https://github.com/ijlyttle/bsplus) - Shiny and R Markdown addons to Bootstrap 3
-* [datacamp/courses-intro-to-r](https://github.com/datacamp/courses-intro-to-r) - An free interactive introduction to R tutorial for DataCamp.com
+* [juliasilge/janeaustenr](https://github.com/juliasilge/janeaustenr) - An R Package for Jane Austen's Complete Novels :orange_book:
+* [hrbrmstr/newsflash](https://github.com/hrbrmstr/newsflash) - Tools to Work with the Internet Archive and GDELT Television Explorer in R
 * [daattali/shinyalert](https://github.com/daattali/shinyalert) - Easily create pretty popup messages (modals) in Shiny
 * [cscheid/rgithub](https://github.com/cscheid/rgithub) - R bindings for the github API
+* [WinVector/WVPlots](https://github.com/WinVector/WVPlots) - Pre-packaged plots in R
+* [wilkox/gggenes](https://github.com/wilkox/gggenes) - ➡️️➡️️⬅️️➡️️ Draw gene arrow maps in ggplot2
+* [tmobile/r-tensorflow-api](https://github.com/tmobile/r-tensorflow-api) - A small Docker container for using R and TensorFlow as an enterprise API
+* [ropensci/EML](https://github.com/ropensci/EML) -  Ecological Metadata Language interface for R: synthesis and integration of heterogenous data
+* [pingles/redshift-r](https://github.com/pingles/redshift-r) - Small R package for accessing Redshift
+* [mpiccirilli/Rlinkedin](https://github.com/mpiccirilli/Rlinkedin) - Dev version of access to LinkedIn API via R
+* [maddin79/darch](https://github.com/maddin79/darch) - Create deep architectures in the R programming language
+* [jknowles/r_tutorial_ed](https://github.com/jknowles/r_tutorial_ed) - R Tutorial for Educational Data Users
+* [ijlyttle/bsplus](https://github.com/ijlyttle/bsplus) - Shiny and R Markdown addons to Bootstrap 3
+* [hrbrmstr/splashr](https://github.com/hrbrmstr/splashr) - :sweat_drops: Tools to Work with the 'Splash' JavaScript Rendering Service in R
+* [anqif/CVXR](https://github.com/anqif/CVXR) - An R modeling language for convex optimization problems.
+* [r-lib/rcmdcheck](https://github.com/r-lib/rcmdcheck) - Run R CMD check from R and collect the results
+* [r-lib/pillar](https://github.com/r-lib/pillar) - Format columns with colour
+* [pablobarbera/Rdataviz](https://github.com/pablobarbera/Rdataviz) - Materials for workshop "Data Visualization with R and ggplot2"
+* [JesseVent/crypto](https://github.com/JesseVent/crypto) - Cryptocurrency Historical Market Data R Package
+* [datacamp/courses-intro-to-r](https://github.com/datacamp/courses-intro-to-r) - An free interactive introduction to R tutorial for DataCamp.com
+* [cavaunpeu/statistical-rethinking](https://github.com/cavaunpeu/statistical-rethinking) - Solutions for the practice problems
 * [abresler/gdeltr2](https://github.com/abresler/gdeltr2) - R's modern interface to The GDELT Project
 * [sjewo/cartogram](https://github.com/sjewo/cartogram) - r package for cartogram creation
 * [ropenscilabs/tic](https://github.com/ropenscilabs/tic) - Tasks Integrating Continuously: CI-Agnostic Workflow Definitions
-* [ropensci/EML](https://github.com/ropensci/EML) -  Ecological Metadata Language interface for R: synthesis and integration of heterogenous data
-* [r-lib/rcmdcheck](https://github.com/r-lib/rcmdcheck) - Run R CMD check from R and collect the results
+* [r-lib/desc](https://github.com/r-lib/desc) - Manipulate DESCRIPTION files
+* [renozao/NMF](https://github.com/renozao/NMF) - NMF: A Flexible R package for Nonnegative Matrix Factorization
 * [HenrikBengtsson/startup](https://github.com/HenrikBengtsson/startup) - :wrench: R package: startup - Friendly R Startup Configuration
 * [hadley/requirements](https://github.com/hadley/requirements) - Find packages required for code to run
-* [edgararuiz/tidypredict](https://github.com/edgararuiz/tidypredict) - Run predictions inside the database
-* [anqif/CVXR](https://github.com/anqif/CVXR) - An R modeling language for convex optimization problems.
-* [16EAGLE/getSpatialData](https://github.com/16EAGLE/getSpatialData) - An R package 📦 making it easy to query, preview, download and preprocess multiple kinds of spatial data 🛰 via R. All beta.
-* [strengejacke/sjstats](https://github.com/strengejacke/sjstats) - Statistical Functions for Regression Models
-* [royfrancis/pophelper](https://github.com/royfrancis/pophelper) - An R package to analyse and visualise admixture proportions from STRUCTURE, fastSTRUCTURE, TESS, ADMIXTURE etc.
-* [r-lib/pillar](https://github.com/r-lib/pillar) - Format columns with colour
-* [r-lib/desc](https://github.com/r-lib/desc) - Manipulate DESCRIPTION files
+* [r-lib/evaluate](https://github.com/r-lib/evaluate) - A version of eval for R that returns more information about what happened
 * [RevolutionAnalytics/rhdfs](https://github.com/RevolutionAnalytics/rhdfs) - A package that allows R developers to use Hadoop HDFS
-* [renozao/NMF](https://github.com/renozao/NMF) - NMF: A Flexible R package for Nonnegative Matrix Factorization
 * [matthewjdenny/SpeedReader](https://github.com/matthewjdenny/SpeedReader) - High Performance Text Processing in R
+* [KlausVigo/phangorn](https://github.com/KlausVigo/phangorn) - Phylogenetic analysis in R
 * [jkeirstead/r-slopegraph](https://github.com/jkeirstead/r-slopegraph) - Create Edward Tufte style slopegraphs with R and ggplot2
-* [terrytangyuan/lfda](https://github.com/terrytangyuan/lfda) - R package for Local Fisher Discriminant Analysis
-* [rstudio/R-Websockets](https://github.com/rstudio/R-Websockets) - HTML 5 Websockets implementation for R
-* [kcf-jackson/jsReact](https://github.com/kcf-jackson/jsReact) - R package: Modelling in R. Interactivity in JS. Best of both worlds.
-* [h2oai/rsparkling](https://github.com/h2oai/rsparkling) - RSparkling: Use H2O Sparkling Water from R  (Spark + R + Machine Learning)
-* [earowang/hts](https://github.com/earowang/hts) - Hierarchical and Grouped Time Series
 * [Derek-Jones/ESEUR-code-data](https://github.com/Derek-Jones/ESEUR-code-data) - Code and data used to create the examples in "Evidence-based Software Engineering using R"
 * [dbdahl/rscala](https://github.com/dbdahl/rscala) - The Scala interpreter is embedded in R and callbacks to R from the embedded interpreter are supported. Conversely, the R interpreter is embedded in Scala.
 * [cloudyr/rmote](https://github.com/cloudyr/rmote) - Utilities for running R on a remote server
-* [bbolker/broom.mixed](https://github.com/bbolker/broom.mixed) - tidy methods for mixed models in R
+* [bernatgel/karyoploteR](https://github.com/bernatgel/karyoploteR) - karyoploteR - An R/Bioconductor package to plot arbitrary data along the genome
+* [terrytangyuan/lfda](https://github.com/terrytangyuan/lfda) - R package for Local Fisher Discriminant Analysis
+* [rstudio/R-Websockets](https://github.com/rstudio/R-Websockets) - HTML 5 Websockets implementation for R
+* [kcf-jackson/jsReact](https://github.com/kcf-jackson/jsReact) - R package: Modelling in R. Interactivity in JS. Best of both worlds.
+* [haozhu233/giphyr](https://github.com/haozhu233/giphyr) - A R package for giphy API
+* [hadley/r-python](https://github.com/hadley/r-python) - Exploring data related to relative usage of R vs. python
+* [h2oai/rsparkling](https://github.com/h2oai/rsparkling) - RSparkling: Use H2O Sparkling Water from R  (Spark + R + Machine Learning)
+* [earowang/hts](https://github.com/earowang/hts) - Hierarchical and Grouped Time Series
+* [chengjun/Data-Mining-With-R](https://github.com/chengjun/Data-Mining-With-R) - data_mining_with_r
 * [ALShum/rwunderground](https://github.com/ALShum/rwunderground) - A simple R package to get historical and forecast weather data
 * [abresler/markovifyR](https://github.com/abresler/markovifyR) - Markovify wrapper for R
-* [strengejacke/sjmisc](https://github.com/strengejacke/sjmisc) - Data transformation and utility functions for R
-* [ropensci/DataPackageR](https://github.com/ropensci/DataPackageR) - An R package to enable reproducible data processing, packaging and sharing.
-* [r-lib/evaluate](https://github.com/r-lib/evaluate) - A version of eval for R that returns more information about what happened
-* [rich-iannone/UnidecodeR](https://github.com/rich-iannone/UnidecodeR) - Replace Unicode characters with sensible US-ASCII equivalents
-* [KlausVigo/phangorn](https://github.com/KlausVigo/phangorn) - Phylogenetic analysis in R
-* [jennybc/repurrrsive](https://github.com/jennybc/repurrrsive) - Recursive lists to use in teaching and examples
-* [hrbrmstr/splashr](https://github.com/hrbrmstr/splashr) - :sweat_drops: Tools to Work with the 'Splash' JavaScript Rendering Service in R
-* [haozhu233/giphyr](https://github.com/haozhu233/giphyr) - A R package for giphy API
-* [rich-iannone/SplitR](https://github.com/rich-iannone/SplitR) - Use the HYSPLIT model from inside R and do more with it
-* [karthik/rDrop](https://github.com/karthik/rDrop) - Programmatic interface to Dropbox
-* [hadley/r-python](https://github.com/hadley/r-python) - Exploring data related to relative usage of R vs. python
-* [dankelley/oce](https://github.com/dankelley/oce) - R package for oceanographic processing
-* [chengjun/Data-Mining-With-R](https://github.com/chengjun/Data-Mining-With-R) - data_mining_with_r
-* [cavaunpeu/statistical-rethinking](https://github.com/cavaunpeu/statistical-rethinking) - Solutions for the practice problems
-* [wilkox/gggenes](https://github.com/wilkox/gggenes) - ➡️️➡️️⬅️️➡️️ Draw gene arrow maps in ggplot2
-* [timelyportfolio/reactR](https://github.com/timelyportfolio/reactR) - React for R
-* [thibautjombart/adegenet](https://github.com/thibautjombart/adegenet) - adegenet: a R package for the multivariate analysis of genetic markers
+* [therneau/survival](https://github.com/therneau/survival) - Survival package for R
 * [schochastics/Rokemon](https://github.com/schochastics/Rokemon) - Pokemon themed R package
+* [rich-iannone/UnidecodeR](https://github.com/rich-iannone/UnidecodeR) - Replace Unicode characters with sensible US-ASCII equivalents
+* [rich-iannone/SplitR](https://github.com/rich-iannone/SplitR) - Use the HYSPLIT model from inside R and do more with it
 * [RGLab/MAST](https://github.com/RGLab/MAST) - Tools and methods for analysis of single cell assay data in R
-* [padamson/rwml-R](https://github.com/padamson/rwml-R) - R code to accompany Henrik Brink, Joseph W. Richards, and Mark Fetherolf's book "Real-World Machine Learning"
-* [duncantl/Rllvm](https://github.com/duncantl/Rllvm) - R interface to LLVM C++ API to be able to create compiled code from within R
-* [carlganz/rintrojs](https://github.com/carlganz/rintrojs) - Wrapper for the Intro.js library
-* [bwlewis/doRedis](https://github.com/bwlewis/doRedis) - R/foreach Redis backend for parallel computing
-* [benmarwick/AAA2011-Tweets](https://github.com/benmarwick/AAA2011-Tweets) - R code for analyzing tweets relating to #AAA2011 (text mining, topic modelling, network analysis, clustering and sentiment analysis)
-* [timjurka/sentiment](https://github.com/timjurka/sentiment) - sentiment is an R package with tools for sentiment analysis including bayesian classifiers for positivity/negativity and emotion classification.
-* [ropensci/spocc](https://github.com/ropensci/spocc) - Species occurrence data toolkit for R
-* [ropenscilabs/miner](https://github.com/ropenscilabs/miner) - R package for controlling Minecraft via API
-* [RevolutionAnalytics/quickcheck](https://github.com/RevolutionAnalytics/quickcheck) - Randomized testing for R
-* [mfrasco/Metrics](https://github.com/mfrasco/Metrics) - An R package for common supervised machine learning metrics.
-* [jamesthomson/R2D3](https://github.com/jamesthomson/R2D3) - R package to create D3.js Visualisations
-* [gaborcsardi/secret](https://github.com/gaborcsardi/secret) - :closed_lock_with_key: Secure sharing of sensitive information in R packages
-* [eddelbuettel/rpushbullet](https://github.com/eddelbuettel/rpushbullet) - R interface to the awesome Pushbullet service
+* [rCarto/osrm](https://github.com/rCarto/osrm) - :twisted_rightwards_arrows: Shortest Paths and Travel Time from OpenStreetMap with R
+* [jennybc/repurrrsive](https://github.com/jennybc/repurrrsive) - Recursive lists to use in teaching and examples
+* [dankelley/oce](https://github.com/dankelley/oce) - R package for oceanographic processing
 * [csgillespie/poweRlaw](https://github.com/csgillespie/poweRlaw) - This package implements both the discrete and continuous maximum likelihood estimators for fitting the power-law distribution to data. Additionally, a goodness-of-fit based approach is used to estimate the lower cutoff for the scaling region.
-* [ColinFay/aside](https://github.com/ColinFay/aside) - Send a long R job to be run aside
-* [bernatgel/karyoploteR](https://github.com/bernatgel/karyoploteR) - karyoploteR - An R/Bioconductor package to plot arbitrary data along the genome
 * [woobe/rPlotter](https://github.com/woobe/rPlotter) - Wrapper functions that make plotting in R a lot easier for beginners.
-* [trestletech/shinyStore](https://github.com/trestletech/shinyStore) - R package that adds HTML5 Local Storage support to Shiny
-* [stephlocke/Rtraining](https://github.com/stephlocke/Rtraining) - R training materials developed by Steph Locke
-* [sicarul/xray](https://github.com/sicarul/xray) - xray: The R Package to have X Ray vision on your datasets
+* [timelyportfolio/reactR](https://github.com/timelyportfolio/reactR) - React for R
+* [mfrasco/Metrics](https://github.com/mfrasco/Metrics) - An R package for common supervised machine learning metrics.
+* [karthik/rDrop](https://github.com/karthik/rDrop) - Programmatic interface to Dropbox
+* [bwlewis/doRedis](https://github.com/bwlewis/doRedis) - R/foreach Redis backend for parallel computing
+* [thibautjombart/adegenet](https://github.com/thibautjombart/adegenet) - adegenet: a R package for the multivariate analysis of genetic markers
+* [ropensci/spocc](https://github.com/ropensci/spocc) - Species occurrence data toolkit for R
+* [ropensci/piggyback](https://github.com/ropensci/piggyback) - :package: for using large(r) data files on GitHub
 * [ropensci/MODIStsp](https://github.com/ropensci/MODIStsp) - An "R" package for automatic download and preprocessing of MODIS Land Products Time Series
+* [ropenscilabs/trackmd](https://github.com/ropenscilabs/trackmd) - Tools for tracking changes in Markdown format within RStudio
 * [ropenscilabs/dataspice](https://github.com/ropenscilabs/dataspice) - :hot_pepper: Create lightweight schema.org descriptions of dataset
-* [r-lib/withr](https://github.com/r-lib/withr) - Methods For Temporarily Modifying Global State
 * [r-lib/async](https://github.com/r-lib/async) - Asynchronous HTTP requests in R -- UNDER CONSTRUCTION
 * [richfitz/storr](https://github.com/richfitz/storr) - :package: Object cacher for R
+* [padamson/rwml-R](https://github.com/padamson/rwml-R) - R code to accompany Henrik Brink, Joseph W. Richards, and Mark Fetherolf's book "Real-World Machine Learning"
+* [jamesthomson/R2D3](https://github.com/jamesthomson/R2D3) - R package to create D3.js Visualisations
+* [genome/sciclone](https://github.com/genome/sciclone) - An R package for inferring the subclonal architecture of tumors
+* [duncantl/Rllvm](https://github.com/duncantl/Rllvm) - R interface to LLVM C++ API to be able to create compiled code from within R
+* [datasciencedojo/IntroToTextAnalyticsWithR](https://github.com/datasciencedojo/IntroToTextAnalyticsWithR) - Public repo for the Data Science Dojo YouTube tutorial series "Introduction to Text Analytics with R".
+* [carlganz/rintrojs](https://github.com/carlganz/rintrojs) - Wrapper for the Intro.js library
+* [trestletech/shinyStore](https://github.com/trestletech/shinyStore) - R package that adds HTML5 Local Storage support to Shiny
+* [timjurka/sentiment](https://github.com/timjurka/sentiment) - sentiment is an R package with tools for sentiment analysis including bayesian classifiers for positivity/negativity and emotion classification.
+* [ropenscilabs/miner](https://github.com/ropenscilabs/miner) - R package for controlling Minecraft via API
+* [RevolutionAnalytics/quickcheck](https://github.com/RevolutionAnalytics/quickcheck) - Randomized testing for R
+* [knausb/vcfR](https://github.com/knausb/vcfR) - Tools to work with variant call format files
+* [jcheng5/googleCharts](https://github.com/jcheng5/googleCharts) - Google Charts bindings for the Shiny web framework for R
+* [jasdumas/shinyLP](https://github.com/jasdumas/shinyLP) - A R package for Bootstrap Components to make Landing Home Pages for Shiny :globe_with_meridians:
+* [hrbrmstr/darksky](https://github.com/hrbrmstr/darksky) - :cloud: R interface to the Dark Sky API
+* [gaborcsardi/secret](https://github.com/gaborcsardi/secret) - :closed_lock_with_key: Secure sharing of sensitive information in R packages
+* [eddelbuettel/rpushbullet](https://github.com/eddelbuettel/rpushbullet) - R interface to the awesome Pushbullet service
+* [ColinFay/aside](https://github.com/ColinFay/aside) - Send a long R job to be run aside
+* [benmarwick/AAA2011-Tweets](https://github.com/benmarwick/AAA2011-Tweets) - R code for analyzing tweets relating to #AAA2011 (text mining, topic modelling, network analysis, clustering and sentiment analysis)
+* [ANTsX/ANTsR](https://github.com/ANTsX/ANTsR) - Advanced Normalization Tools in R
+* [stephlocke/Rtraining](https://github.com/stephlocke/Rtraining) - R training materials developed by Steph Locke
+* [sicarul/xray](https://github.com/sicarul/xray) - xray: The R Package to have X Ray vision on your datasets
+* [r-lib/withr](https://github.com/r-lib/withr) - Methods For Temporarily Modifying Global State
+* [hadley/nycflights13](https://github.com/hadley/nycflights13) - An R data package containing all out-bound flights from NYC in 2013 + useful metdata
 * [gluc/ahp](https://github.com/gluc/ahp) - Analytical Hierarchy Process (AHP) with R
 * [emitanaka/shinycustomloader](https://github.com/emitanaka/shinycustomloader) - Add a custom loader for R shiny
-* [ANTsX/ANTsR](https://github.com/ANTsX/ANTsR) - Advanced Normalization Tools in R
-* [therneau/survival](https://github.com/therneau/survival) - Survival package for R
+* [emitanaka/anicon](https://github.com/emitanaka/anicon) - Animated icons for R markdown and Shiny apps
+* [swager/randomForestCI](https://github.com/swager/randomForestCI) - This package is DEPRECATED. Please use the packages `grf` or `ranger` instead, which have built-in confidence intervals.
 * [ropensci/bib2df](https://github.com/ropensci/bib2df) - Parse a BibTeX file to a tibble
 * [Reproducible-Science-Curriculum/rr-init](https://github.com/Reproducible-Science-Curriculum/rr-init) - Research project initialization and organization following reproducible research guidelines
 * [Pakillo/grateful](https://github.com/Pakillo/grateful) - Facilitate citation of R packages
+* [Non-Contradiction/JuliaCall](https://github.com/Non-Contradiction/JuliaCall) - Embed Julia in R
 * [mkearney/presidential_election_county_results_2016](https://github.com/mkearney/presidential_election_county_results_2016) - 🏁 presidential_election_county_results_2016
-* [jcheng5/googleCharts](https://github.com/jcheng5/googleCharts) - Google Charts bindings for the Shiny web framework for R
-* [hadley/nycflights13](https://github.com/hadley/nycflights13) - An R data package containing all out-bound flights from NYC in 2013 + useful metdata
-* [genome/sciclone](https://github.com/genome/sciclone) - An R package for inferring the subclonal architecture of tumors
-* [emitanaka/anicon](https://github.com/emitanaka/anicon) - Animated icons for R markdown and Shiny apps
-* [datasciencedojo/IntroToTextAnalyticsWithR](https://github.com/datasciencedojo/IntroToTextAnalyticsWithR) - Public repo for the Data Science Dojo YouTube tutorial series "Introduction to Text Analytics with R".
-* [benmarwick/ctv-archaeology](https://github.com/benmarwick/ctv-archaeology) - CRAN Task View: Archaeological Science
-* [swager/randomForestCI](https://github.com/swager/randomForestCI) - This package is DEPRECATED. Please use the packages `grf` or `ranger` instead, which have built-in confidence intervals.
-* [rstudio/addinexamples](https://github.com/rstudio/addinexamples) - An R package showcasing how RStudio addins can be registered and used.
-* [ropenscilabs/trackmd](https://github.com/ropenscilabs/trackmd) - Tools for tracking changes in Markdown format within RStudio
-* [ropensci/historydata](https://github.com/ropensci/historydata) - Datasets for Historians
-* [ropensci/ckanr](https://github.com/ropensci/ckanr) - R client for the CKAN REST API
 * [Microsoft/AzureSMR](https://github.com/Microsoft/AzureSMR) - R Package for managing a selection of Azure resources. Targeted at Data Scientists who need to control Azure Resources without needing to both Administrators. APIs include Storage Blobs, HDInsight(Nodes, Hive, Spark), ARM, VMs
-* [knausb/vcfR](https://github.com/knausb/vcfR) - Tools to work with variant call format files
-* [gastonstat/arcdiagram](https://github.com/gastonstat/arcdiagram) - R package arcdiagram
-* [csoneson/iSEE](https://github.com/csoneson/iSEE) - R/shiny interface for interactive visualization of data in objects derived from the SummarizedExperiment class
-* [badbye/baidumap](https://github.com/badbye/baidumap) - R interface of baidu map api
-* [yanyachen/rBayesianOptimization](https://github.com/yanyachen/rBayesianOptimization) - Bayesian Optimization of Hyperparameters
-* [ropensci/piggyback](https://github.com/ropensci/piggyback) - :package: for using large(r) data files on GitHub
-* [Robinlovelace/spatial-microsim-book](https://github.com/Robinlovelace/spatial-microsim-book) - Code, data and prose of the book: Spatial Microsimulation with R
 * [leeper/prediction](https://github.com/leeper/prediction) - Tidy, Type-Safe 'prediction()' Methods
 * [krlmlr/fledge](https://github.com/krlmlr/fledge) - Wings for your R packages: Streamline the process of versioning R packages and updating NEWS
-* [joshkatz/needs](https://github.com/joshkatz/needs) - An R function for safe package loading / installation.
 * [hrbrmstr/decapitated](https://github.com/hrbrmstr/decapitated) - Headless 'Chrome' Orchestration in R
-* [datacamp/tutorial](https://github.com/datacamp/tutorial) - R Package to convert R Markdown files to DataCamp Light HTML files
-* [cboettig/template](https://github.com/cboettig/template) - :package: A template for my research projects, based on the R package structure
+* [gastonstat/arcdiagram](https://github.com/gastonstat/arcdiagram) - R package arcdiagram
 * [catavallejos/BASiCS](https://github.com/catavallejos/BASiCS) - BASiCS: Bayesian Analysis of Single-Cell Sequencing Data. This is an unstable experimental version. Please see http://bioconductor.org/packages/BASiCS/ for the official release version
-* [ardata-fr/mschart](https://github.com/ardata-fr/mschart) - :bar_chart: mschart: office charts from R
-* [zmjones/edarf](https://github.com/zmjones/edarf) - exploratory data analysis using random forests
-* [tidyverse/hms](https://github.com/tidyverse/hms) - A simple class for storing time-of-day values
-* [ropensci/solrium](https://github.com/ropensci/solrium) - A general purpose R interface to Solr
-* [rCarto/osrm](https://github.com/rCarto/osrm) - :twisted_rightwards_arrows: Shortest Paths and Travel Time from OpenStreetMap with R
-* [kateto/R-Network-Visualization-Basics-to-Advanced](https://github.com/kateto/R-Network-Visualization-Basics-to-Advanced) - Basic and advanced network visualization with R - code and tutorial from my Sunbelt 2016 workshop.
-* [jasdumas/shinyLP](https://github.com/jasdumas/shinyLP) - A R package for Bootstrap Components to make Landing Home Pages for Shiny :globe_with_meridians:
-* [hrbrmstr/darksky](https://github.com/hrbrmstr/darksky) - :cloud: R interface to the Dark Sky API
-* [grunwaldlab/metacoder](https://github.com/grunwaldlab/metacoder) - Parsing, Manipulation, and Visualization of Metabarcoding/Taxonomic data
+* [benmarwick/ctv-archaeology](https://github.com/benmarwick/ctv-archaeology) - CRAN Task View: Archaeological Science
+* [badbye/baidumap](https://github.com/badbye/baidumap) - R interface of baidu map api
+* [yanyachen/rBayesianOptimization](https://github.com/yanyachen/rBayesianOptimization) - Bayesian Optimization of Hyperparameters
+* [twbattaglia/RNAseq-workflow](https://github.com/twbattaglia/RNAseq-workflow) - A repository for setting up a RNAseq workflow
+* [rstudio/addinexamples](https://github.com/rstudio/addinexamples) - An R package showcasing how RStudio addins can be registered and used.
+* [ropensci/historydata](https://github.com/ropensci/historydata) - Datasets for Historians
+* [ropensci/ckanr](https://github.com/ropensci/ckanr) - R client for the CKAN REST API
+* [Robinlovelace/spatial-microsim-book](https://github.com/Robinlovelace/spatial-microsim-book) - Code, data and prose of the book: Spatial Microsimulation with R
+* [joshkatz/needs](https://github.com/joshkatz/needs) - An R function for safe package loading / installation.
+* [csoneson/iSEE](https://github.com/csoneson/iSEE) - R/shiny interface for interactive visualization of data in objects derived from the SummarizedExperiment class
 * [christophsax/tsbox](https://github.com/christophsax/tsbox) - tsbox: Class-Agnostic Time Series in R
+* [cboettig/template](https://github.com/cboettig/template) - :package: A template for my research projects, based on the R package structure
+* [ardata-fr/mschart](https://github.com/ardata-fr/mschart) - :bar_chart: mschart: office charts from R
+* [tidyverse/hms](https://github.com/tidyverse/hms) - A simple class for storing time-of-day values
+* [grunwaldlab/metacoder](https://github.com/grunwaldlab/metacoder) - Parsing, Manipulation, and Visualization of Metabarcoding/Taxonomic data
+* [datacamp/tutorial](https://github.com/datacamp/tutorial) - R Package to convert R Markdown files to DataCamp Light HTML files
+* [al2na/methylKit](https://github.com/al2na/methylKit) - R package for DNA methylation analysis
+* [zmjones/edarf](https://github.com/zmjones/edarf) - exploratory data analysis using random forests
+* [ropensci/solrium](https://github.com/ropensci/solrium) - A general purpose R interface to Solr
+* [matloff/regtools](https://github.com/matloff/regtools) - Various tools for linear, nonlinear and nonparametric regression.
+* [kateto/R-Network-Visualization-Basics-to-Advanced](https://github.com/kateto/R-Network-Visualization-Basics-to-Advanced) - Basic and advanced network visualization with R - code and tutorial from my Sunbelt 2016 workshop.
+* [GuangchuangYu/ggimage](https://github.com/GuangchuangYu/ggimage) - :art: Use Images in ggplot2
+* [gergness/srvyr](https://github.com/gergness/srvyr) - R package to add 'dplyr'-like Syntax for Summary Statistics of Survey Data
 * [CartoDB/cartodb-r](https://github.com/CartoDB/cartodb-r) - R package to interface with CartoDB
 * [caijun/geoChina](https://github.com/caijun/geoChina) - An R package for geocoding address by calling the Google or Baidu Geocoding API and coordinate conversions for WGS-84, GCJ-02 and BD-09 geodetic system
-* [analyticalmonk/Rperform](https://github.com/analyticalmonk/Rperform) - :bar_chart: R package for tracking performance metrics across git versions and branches.
-* [jrnold/r4ds-exercise-solutions](https://github.com/jrnold/r4ds-exercise-solutions) - Solutions to the exercises in "R for Data Science"
-* [gergness/srvyr](https://github.com/gergness/srvyr) - R package to add 'dplyr'-like Syntax for Summary Statistics of Survey Data
-* [chgrl/leafletR](https://github.com/chgrl/leafletR) - An R package to create interactive web-maps based on the Leaflet JavaScript library
-* [bryanhanson/HiveR](https://github.com/bryanhanson/HiveR) - An R package for creating and plotting 2D and 3D hive plots.
 * [beanumber/etl](https://github.com/beanumber/etl) - R package to facilitate ETL operations
 * [AndreaCirilloAC/paletter](https://github.com/AndreaCirilloAC/paletter) - build your palette from a picture √
-* [twbattaglia/RNAseq-workflow](https://github.com/twbattaglia/RNAseq-workflow) - A repository for setting up a RNAseq workflow
+* [analyticalmonk/Rperform](https://github.com/analyticalmonk/Rperform) - :bar_chart: R package for tracking performance metrics across git versions and branches.
 * [today-is-a-good-day/emojis](https://github.com/today-is-a-good-day/emojis) - Set up a proper Emoticons dictionary for R to analyze emojis in tweets
 * [timelyportfolio/vueR](https://github.com/timelyportfolio/vueR) - vue.js for R
-* [ropensci/lawn](https://github.com/ropensci/lawn) - turf.js R client
-* [ropensci/gutenbergr](https://github.com/ropensci/gutenbergr) - Search and download public domain texts from Project Gutenberg
-* [Non-Contradiction/JuliaCall](https://github.com/Non-Contradiction/JuliaCall) - Embed Julia in R
-* [ndphillips/yarrr](https://github.com/ndphillips/yarrr) - An R package for conducting all sorts of R piratery
-* [mschubert/clustermq](https://github.com/mschubert/clustermq) - R package to send function calls as jobs on LSF, SGE, Slurm, PBS/Torque, or each via SSH
-* [MangoTheCat/radarchart](https://github.com/MangoTheCat/radarchart) - Implementation of the radar chart from chart.js library
 * [hrecht/censusapi](https://github.com/hrecht/censusapi) - R package to retrieve Census data and metadata via API
-* [GuangchuangYu/ggimage](https://github.com/GuangchuangYu/ggimage) - :art: Use Images in ggplot2
-* [ezgraphs/R-Programs](https://github.com/ezgraphs/R-Programs) - A Variety of R Programs
 * [dill/beyonce](https://github.com/dill/beyonce) - :crown: :bee: :bar_chart: Beyoncé colour palettes for R
-* [delta-rho/RHIPE](https://github.com/delta-rho/RHIPE) - R and Hadoop Integrated Programming Environment
-* [al2na/methylKit](https://github.com/al2na/methylKit) - R package for DNA methylation analysis
-* [WLOGSolutions/telco-customer-churn-in-r-and-h2o](https://github.com/WLOGSolutions/telco-customer-churn-in-r-and-h2o) - Showcase for using H2O and R for churn prediction (inspired by ZhouFang928 examples)
+* [chgrl/leafletR](https://github.com/chgrl/leafletR) - An R package to create interactive web-maps based on the Leaflet JavaScript library
+* [bryanhanson/HiveR](https://github.com/bryanhanson/HiveR) - An R package for creating and plotting 2D and 3D hive plots.
+* [aschinchon/travelling-salesman-portrait](https://github.com/aschinchon/travelling-salesman-portrait) - An experiment in R to convert photos into single-line-drawings
+* [xia-lab/MetaboAnalystR](https://github.com/xia-lab/MetaboAnalystR) - R package for MetaboAnalyst
+* [trevorld/r-optparse](https://github.com/trevorld/r-optparse) - R package providing a commandline optional argument parser
 * [tkonopka/umap](https://github.com/tkonopka/umap) - Uniform Manifold Approximation and Projection - R package
 * [ropensci/qualtRics](https://github.com/ropensci/qualtRics) - Download qualtrics survey data directly into R!
+* [ropensci/lawn](https://github.com/ropensci/lawn) - turf.js R client
+* [ropensci/gutenbergr](https://github.com/ropensci/gutenbergr) - Search and download public domain texts from Project Gutenberg
+* [odeleongt/postr](https://github.com/odeleongt/postr) - Prepare reproducible R Markdown posters
+* [ndphillips/yarrr](https://github.com/ndphillips/yarrr) - An R package for conducting all sorts of R piratery
+* [mschubert/clustermq](https://github.com/mschubert/clustermq) - R package to send function calls as jobs on LSF, SGE, Slurm, PBS/Torque, or each via SSH
+* [MarkEdmondson1234/serverless-R-API-appengine](https://github.com/MarkEdmondson1234/serverless-R-API-appengine) - Describes how to deploy an R API using Plumber onto App Engine and using Cloud Endpoints
+* [MangoTheCat/radarchart](https://github.com/MangoTheCat/radarchart) - Implementation of the radar chart from chart.js library
+* [jhollist/quickmapr](https://github.com/jhollist/quickmapr) - An R package for quickly mapping and navigating spatial data
+* [hrbrmstr/curlconverter](https://github.com/hrbrmstr/curlconverter) - :curly_loop: :arrow_right: :heavy_minus_sign: Translate cURL command lines into parameters for use with httr or actual httr calls (R)
+* [hemberg-lab/scRNA.seq.datasets](https://github.com/hemberg-lab/scRNA.seq.datasets) - Collection of public scRNA-Seq datasets used by our group
+* [ezgraphs/R-Programs](https://github.com/ezgraphs/R-Programs) - A Variety of R Programs
+* [dipanjanS/learning-social-media-analytics-with-r](https://github.com/dipanjanS/learning-social-media-analytics-with-r) - This repository contains code and bonus content which will be added from time to time for the book "Learning Social Media Analytics with R" by Packt
+* [delta-rho/RHIPE](https://github.com/delta-rho/RHIPE) - R and Hadoop Integrated Programming Environment
+* [WLOGSolutions/telco-customer-churn-in-r-and-h2o](https://github.com/WLOGSolutions/telco-customer-churn-in-r-and-h2o) - Showcase for using H2O and R for churn prediction (inspired by ZhouFang928 examples)
+* [sckott/rphylopic](https://github.com/sckott/rphylopic) - Get silhouettes of organisms from Phylopic.
+* [ropensci/RefManageR](https://github.com/ropensci/RefManageR) - R package RefManageR
 * [ropensci/gtfsr](https://github.com/ropensci/gtfsr) - Package for obtaining, validating, viewing, and storing GTFS (transit) data
+* [ropensci/crul](https://github.com/ropensci/crul) - R6 based http client for R (made for developers)
 * [ropensci/bikedata](https://github.com/ropensci/bikedata) - :bike: Extract data from public hire bicycle systems
 * [ramhiser/datamicroarray](https://github.com/ramhiser/datamicroarray) - A collection of small-sample, high-dimensional microarray data sets to assess machine-learning algorithms and models.
 * [Quantia-Analytics/AzureML-Regression-Example](https://github.com/Quantia-Analytics/AzureML-Regression-Example) - This repo contains all the code and data necessary to explore non-linear regression using Azure ML.
+* [peterhurford/adv-r-book-solutions](https://github.com/peterhurford/adv-r-book-solutions) - Solutions for the Advanced R Development book
 * [parklab/nozzle](https://github.com/parklab/nozzle) - Nozzle is a report generation toolkit for data analysis pipelines implemented in R.
-* [matloff/regtools](https://github.com/matloff/regtools) - Various tools for linear, nonlinear and nonparametric regression.
-* [jhollist/quickmapr](https://github.com/jhollist/quickmapr) - An R package for quickly mapping and navigating spatial data
-* [hemberg-lab/scRNA.seq.datasets](https://github.com/hemberg-lab/scRNA.seq.datasets) - Collection of public scRNA-Seq datasets used by our group
-* [cargomoose/ggraptR](https://github.com/cargomoose/ggraptR) - Rapid and Pretty Things in R : A shiny graphical user interface for your favourite ggplot graphics in R
-* [aschinchon/travelling-salesman-portrait](https://github.com/aschinchon/travelling-salesman-portrait) - An experiment in R to convert photos into single-line-drawings
-* [trevorld/optparse](https://github.com/trevorld/optparse) - R package providing a commandline optional argument parser
-* [tobigithub/caret-machine-learning](https://github.com/tobigithub/caret-machine-learning) - Practical examples for the R caret machine learning package
-* [ranalytics/data-mining](https://github.com/ranalytics/data-mining) - Материалы к книге "Классификация, регрессия, и другие алгоритмы Data Mining с использованием R"
-* [odeleongt/postr](https://github.com/odeleongt/postr) - Prepare reproducible R Markdown posters
-* [jslefche/piecewiseSEM](https://github.com/jslefche/piecewiseSEM) - Piecewise Structural Equation Modeling in R
+* [laresbernardo/lares](https://github.com/laresbernardo/lares) - R Library for Analytics and Machine Learning
 * [js229/Vennerable](https://github.com/js229/Vennerable) - Vennerable provides Venn diagrams in R. It displays Venn and Euler diagrams for up to 9 different sets and using a variety of geometries. It allows the display of area-weighted Venn diagrams and allows fine graphical control over the result.
-* [jpmml/r2pmml](https://github.com/jpmml/r2pmml) - R library for converting R models to PMML
 * [jeremystan/aargh](https://github.com/jeremystan/aargh) - Easily Expose R Functions to Command Line Arguments
 * [jbkunst/rchess](https://github.com/jbkunst/rchess) - ♛ Chess package for R
-* [jangorecki/Rbitcoin](https://github.com/jangorecki/Rbitcoin) - R & bitcoin integration
-* [hrbrmstr/curlconverter](https://github.com/hrbrmstr/curlconverter) - :curly_loop: :arrow_right: :heavy_minus_sign: Translate cURL command lines into parameters for use with httr or actual httr calls (R)
-* [HenrikBengtsson/R.matlab](https://github.com/HenrikBengtsson/R.matlab) - R package: R.matlab
-* [dgrtwo/stackr](https://github.com/dgrtwo/stackr) - R package for connecting to the Stack Exchange API
-* [christophergandrud/dpmr](https://github.com/christophergandrud/dpmr) - Data Package Manager for R
+* [cargomoose/ggraptR](https://github.com/cargomoose/ggraptR) - Rapid and Pretty Things in R : A shiny graphical user interface for your favourite ggplot graphics in R
 * [bgreenwell/pdp](https://github.com/bgreenwell/pdp) - A general framework for constructing partial dependence (i.e., marginal effect) plots from various types machine learning models in R.
+* [AndreaCirilloAC/updateR](https://github.com/AndreaCirilloAC/updateR) - update your R version in a breeze ( on OSX)  √
+* [trinker/textclean](https://github.com/trinker/textclean) - Tools for cleaning and normalizing text data
+* [tobigithub/caret-machine-learning](https://github.com/tobigithub/caret-machine-learning) - Practical examples for the R caret machine learning package
+* [SugiharaLab/rEDM](https://github.com/SugiharaLab/rEDM) - Applications of Empirical Dynamic Modeling from Time Series
+* [stephens999/ashr](https://github.com/stephens999/ashr) - An R package for adaptive shrinkage
+* [socialcopsdev/rLandsat](https://github.com/socialcopsdev/rLandsat) - R Package to make Landsat8 data accessible
 * [shosaco/vistime](https://github.com/shosaco/vistime) - an R package for pretty timeline creation
-* [ropensci/RefManageR](https://github.com/ropensci/RefManageR) - R package RefManageR
-* [ropensci/crul](https://github.com/ropensci/crul) - R6 based http client for R (made for developers)
-* [rCarto/linemap](https://github.com/rCarto/linemap) - :aquarius: Create maps made of lines
 * [RBigData/remoter](https://github.com/RBigData/remoter) - Control a remote R session from your local R session.
+* [ranalytics/data-mining](https://github.com/ranalytics/data-mining) - Материалы к книге "Классификация, регрессия, и другие алгоритмы Data Mining с использованием R"
+* [jslefche/piecewiseSEM](https://github.com/jslefche/piecewiseSEM) - Piecewise Structural Equation Modeling in R
+* [jpmml/r2pmml](https://github.com/jpmml/r2pmml) - R library for converting R models to PMML
+* [jhollist/elevatr](https://github.com/jhollist/elevatr) - An R package for accessing elevation data
+* [jeroen/askpass](https://github.com/jeroen/askpass) - Safe Password Entry for R, Git, and SSH
+* [jangorecki/Rbitcoin](https://github.com/jangorecki/Rbitcoin) - R & bitcoin integration
+* [HenrikBengtsson/R.matlab](https://github.com/HenrikBengtsson/R.matlab) - R package: R.matlab
+* [dleutnant/influxdbr](https://github.com/dleutnant/influxdbr) - R Interface for InfluxDB
+* [dgrtwo/stackr](https://github.com/dgrtwo/stackr) - R package for connecting to the Stack Exchange API
+* [cloudyr/RoogleVision](https://github.com/cloudyr/RoogleVision) - R Package for Image Recognition using Google Cloud Vision
+* [xiaodaigh/disk.frame](https://github.com/xiaodaigh/disk.frame) - Fast disk-based parallelized data manipulation framework for larger-than-RAM data
+* [underthecurve/r-data-cleaning-tricks](https://github.com/underthecurve/r-data-cleaning-tricks) - Data Cleaning Tricks in R for Boston University's "Storytelling with Data" workshop
+* [tomwenseleers/export](https://github.com/tomwenseleers/export) - R package for streamlined export of graphs and data tables.
+* [rCarto/linemap](https://github.com/rCarto/linemap) - :aquarius: Create maps made of lines
 * [Ram-N/weatherData](https://github.com/Ram-N/weatherData) - A simple R package that fetches Weather data from WeatherUnderground
 * [pablo14/funModeling](https://github.com/pablo14/funModeling) - R package: funModeling: data cleaning, importance variable analysis and model perfomance
+* [nteetor/yonder](https://github.com/nteetor/yonder) - A reactive web framework built on shiny
 * [nbrgraphs/mro](https://github.com/nbrgraphs/mro) - Creating Effective Graphs with Microsoft R Open
 * [leeper/colourlovers](https://github.com/leeper/colourlovers) - R Client for the COLOURlovers API
 * [GIST-ORNL/wbstats](https://github.com/GIST-ORNL/wbstats) - wbstats: An R package for searching and downloading data from the World Bank API
 * [gastonstat/Mining_Twitter](https://github.com/gastonstat/Mining_Twitter) - R scripts describing several options to do twitter analysis in R
 * [fawda123/rStrava](https://github.com/fawda123/rStrava) - Functions to access data from Strava's v3 API.
-* [dleutnant/influxdbr](https://github.com/dleutnant/influxdbr) - R Interface for InfluxDB
-* [dipanjanS/learning-social-media-analytics-with-r](https://github.com/dipanjanS/learning-social-media-analytics-with-r) - This repository contains code and bonus content which will be added from time to time for the book "Learning Social Media Analytics with R" by Packt
 * [dgrtwo/rpanama](https://github.com/dgrtwo/rpanama) - The Panama Papers offshore leaks database in R
-* [cloudyr/RoogleVision](https://github.com/cloudyr/RoogleVision) - R Package for Image Recognition using Google Cloud Vision
+* [davebraze/FDBeye](https://github.com/davebraze/FDBeye) - R tools for eyetracker workflows.
+* [computationalstylistics/stylo](https://github.com/computationalstylistics/stylo) - R package for stylometric analyses
+* [christophergandrud/dpmr](https://github.com/christophergandrud/dpmr) - Data Package Manager for R
 * [ayayron/shinydnd](https://github.com/ayayron/shinydnd) - Creating drag and drop elements in Shiny
-* [AndreaCirilloAC/updateR](https://github.com/AndreaCirilloAC/updateR) - update your R version in a breeze ( on OSX)  √
 * [yihui/rmini](https://github.com/yihui/rmini) - A minimal R package with examples of most common components
-* [xia-lab/MetaboAnalystR](https://github.com/xia-lab/MetaboAnalystR) - R package for MetaboAnalyst
-* [trinker/textclean](https://github.com/trinker/textclean) - Tools for cleaning and normalizing text data
-* [stephens999/ashr](https://github.com/stephens999/ashr) - An R package for adaptive shrinkage
+* [ropenscilabs/tl](https://github.com/ropenscilabs/tl) - tldr for R!
+* [richfitz/RcppR6](https://github.com/richfitz/RcppR6) - Code-generation wrapping C++ classes as R6 classes
 * [rdrr1990/kerasformula](https://github.com/rdrr1990/kerasformula) - A high-level interface to keras for R that takes advantage of formulas
 * [metagraf/rHighcharts](https://github.com/metagraf/rHighcharts) - An R wrapper for Highcharts JS
 * [kingaa/pomp](https://github.com/kingaa/pomp) - R package for statistical inference using partially observed Markov processes
-* [ha0ye/rEDM](https://github.com/ha0ye/rEDM) - Applications of Empirical Dynamic Modeling from Time Series
+* [Ironholds/WikipediR](https://github.com/Ironholds/WikipediR) - R's MediaWiki API client library
+* [gdkrmr/dimRed](https://github.com/gdkrmr/dimRed) - A Framework for Dimensionality Reduction in R
+* [gammarama/intRo](https://github.com/gammarama/intRo) - Shiny-based statistics learning application
 * [ewenharrison/finalfit](https://github.com/ewenharrison/finalfit) - Quickly create elegant regression results tables and plots when modelling in R
 * [dwoll/RExRepos](https://github.com/dwoll/RExRepos) - R Examples Repository
-* [davebraze/FDBeye](https://github.com/davebraze/FDBeye) - R tools for eyetracker workflows.
+* [dirmeier/datastructures](https://github.com/dirmeier/datastructures) - Implementation of core data structures for R.
+* [davidski/evaluator](https://github.com/davidski/evaluator) - ⚖Open Source Toolkit for Quantitative Risk Assessment
 * [christophergandrud/DataCombine](https://github.com/christophergandrud/DataCombine) - R tools for combining data sets.
 * [bnosac/pattern.nlp](https://github.com/bnosac/pattern.nlp) - R package to perform sentiment analysis and Parts of Speech tagging for Dutch/French/English/German/Spanish/Italian
 * [berndbischl/parallelMap](https://github.com/berndbischl/parallelMap) - R package to interface some popular parallelization back-ends with a unified interface
+* [xrobin/pROC](https://github.com/xrobin/pROC) - Display and analyze ROC curves in R and S+
+* [trackerproject/trackeR](https://github.com/trackerproject/trackeR) - Infrastructure for Running, Cycling and Swimming Data from GPS-Enabled Tracking Devices
+* [rstudio/rsconnect](https://github.com/rstudio/rsconnect) - Deployment interface for Shiny applications
 * [ropensci/opencage](https://github.com/ropensci/opencage) - :globe_with_meridians: R package for the OpenCage API -- both forward and reverse geocoding :globe_with_meridians:
-* [peterhurford/adv-r-book-solutions](https://github.com/peterhurford/adv-r-book-solutions) - Solutions for the Advanced R Development book
-* [nteetor/yonder](https://github.com/nteetor/yonder) - A reactive web framework built on shiny
-* [MarkEdmondson1234/serverless-R-API-appengine](https://github.com/MarkEdmondson1234/serverless-R-API-appengine) - Describes how to deploy an R API using Plumber onto App Engine and using Cloud Endpoints
+* [r-lib/sloop](https://github.com/r-lib/sloop) - Sail the seas of OOP with ⛵️
+* [rkillick/changepoint](https://github.com/rkillick/changepoint) - A place for the development version of the changepoint package on CRAN.
+* [kateto/R-igraph-Network-Workshop-NetSciX](https://github.com/kateto/R-igraph-Network-Workshop-NetSciX) - NetSciX 2016 workshop on network analysis and visualization with R and igraph
 * [johnmyleswhite/bayesian_nonparametrics](https://github.com/johnmyleswhite/bayesian_nonparametrics) - Slides and code for Bayesian nonparametrics in R and Julia
 * [jeffreyhorner/rRack](https://github.com/jeffreyhorner/rRack) - A web server interface for the R language
-* [Ironholds/WikipediR](https://github.com/Ironholds/WikipediR) - R's MediaWiki API client library
 * [hiratake55/RForcecom](https://github.com/hiratake55/RForcecom) - RForcecom provides the connection to Force.com and Salesforce.com from R
-* [gammarama/intRo](https://github.com/gammarama/intRo) - Shiny-based statistics learning application
-* [dirmeier/datastructures](https://github.com/dirmeier/datastructures) - Implementation of core data structures for R.
+* [erichson/rSVD](https://github.com/erichson/rSVD) - Randomized Matrix Decompositions using R
 * [davesteps/machLearn](https://github.com/davesteps/machLearn) - Machine learning dashboard created with R/shiny
-* [DASpringate/Rkoans](https://github.com/DASpringate/Rkoans) - R Koans: An interactive R tutorial
-* [computationalstylistics/stylo](https://github.com/computationalstylistics/stylo) - R package for stylometric analyses
 * [cloudyr/googleCloudStorageR](https://github.com/cloudyr/googleCloudStorageR) - Google Cloud Storage API to R
 * [ben519/mltools](https://github.com/ben519/mltools) - Exploratory and diagnostic machine learning tools for R
 * [zeehio/ggpipe](https://github.com/zeehio/ggpipe) - ggplot with the pipe
-* [xrobin/pROC](https://github.com/xrobin/pROC) - Display and analyze ROC curves in R and S+
+* [YinLiLin/R-CMplot](https://github.com/YinLiLin/R-CMplot) - :four_leaf_clover:Circular Manhattan Plot
+* [Twitter-Sentiment-Analysis/R](https://github.com/Twitter-Sentiment-Analysis/R) - Sentiment analysis and visualization of real-time tweets using R
 * [trestletech/shinyRGL](https://github.com/trestletech/shinyRGL) - Shiny wrappers for RGL (WebGL)
-* [trackerproject/trackeR](https://github.com/trackerproject/trackeR) - Infrastructure for Running, Cycling and Swimming Data from GPS-Enabled Tracking Devices
 * [ThinkR-open/fcuk](https://github.com/ThinkR-open/fcuk) - A R package designed to help people with clumsy fingers.
-* [socialcopsdev/rLandsat](https://github.com/socialcopsdev/rLandsat) - R Package to make Landsat8 data accessible
+* [rstudio/tfestimators](https://github.com/rstudio/tfestimators) - R interface to TensorFlow Estimators
+* [rstudio/cloudml](https://github.com/rstudio/cloudml) - Cloud ML interface for R
 * [ropenscilabs/dirdf](https://github.com/ropenscilabs/dirdf) - R package: dirdf - Extracts Metadata from Directory and File Names
 * [robertzk/lockbox](https://github.com/robertzk/lockbox) - Bundler-style dependency management for R
-* [r-lib/sloop](https://github.com/r-lib/sloop) - Sail the seas of OOP with ⛵️
-* [rkillick/changepoint](https://github.com/rkillick/changepoint) - A place for the development version of the changepoint package on CRAN.
-* [richfitz/RcppR6](https://github.com/richfitz/RcppR6) - Code-generation wrapping C++ classes as R6 classes
+* [r-music/chorrrds](https://github.com/r-music/chorrrds) - R package to extract music chords
+* [r-lib/roxygen2md](https://github.com/r-lib/roxygen2md) - Convert elements of roxygen documentation to markdown
 * [Rapporter/rapport](https://github.com/Rapporter/rapport) - rapport is an R package that facilitates the creation of reproducible statistical report templates
 * [PF2-pasteur-fr/SARTools](https://github.com/PF2-pasteur-fr/SARTools) - Statistical Analysis of RNA-Seq Tools
 * [Paradigm4/SciDBR](https://github.com/Paradigm4/SciDBR) - R package for SciDB
+* [OHDSI/PatientLevelPrediction](https://github.com/OHDSI/PatientLevelPrediction) - An R package for performing patient level prediction.
 * [MilesMcBain/deplearning](https://github.com/MilesMcBain/deplearning) - Detect, install and update R source dependencies.
-* [kateto/R-igraph-Network-Workshop-NetSciX](https://github.com/kateto/R-igraph-Network-Workshop-NetSciX) - NetSciX 2016 workshop on network analysis and visualization with R and igraph
+* [ljdursi/beyond-single-core-R](https://github.com/ljdursi/beyond-single-core-R) - Short tour of parallel and foreach packages, and how to think about scaling data analyses
 * [karthik/rdat](https://github.com/karthik/rdat) - An R interface to data Dat
 * [jonclayden/shades](https://github.com/jonclayden/shades) - Simple colour manipulation in R
-* [jhollist/elevatr](https://github.com/jhollist/elevatr) - An R package for accessing elevation data
-* [druid-io/RDruid](https://github.com/druid-io/RDruid) - Druid connector for R
-* [d3treeR/d3treeR](https://github.com/d3treeR/d3treeR) - R htmlwidget for d3.js treemaps
-* [asifsalam/PowerPoint_from_R](https://github.com/asifsalam/PowerPoint_from_R) - PowerPoint_from_R
-* [Twitter-Sentiment-Analysis/R](https://github.com/Twitter-Sentiment-Analysis/R) - Sentiment analysis and visualization of real-time tweets using R
-* [terrytangyuan/dml](https://github.com/terrytangyuan/dml) - R package for Distance Metric Learning
-* [swarm-lab/videoplayR](https://github.com/swarm-lab/videoplayR) - A computer vision library for R
-* [sckott/rphylopic](https://github.com/sckott/rphylopic) - Get silhouettes of organisms from Phylopic.
-* [rstudio/tfestimators](https://github.com/rstudio/tfestimators) - R interface to TensorFlow Estimators
-* [romainfrancois/trump](https://github.com/romainfrancois/trump) - instantly segfault your R session
-* [r-lib/roxygen2md](https://github.com/r-lib/roxygen2md) - Convert elements of roxygen documentation to markdown
-* [ljdursi/beyond-single-core-R](https://github.com/ljdursi/beyond-single-core-R) - Short tour of parallel and foreach packages, and how to think about scaling data analyses
-* [jcheng5/bubbles](https://github.com/jcheng5/bubbles) - d3 Bubble Chart for R
 * [hrbrmstr/freebase](https://github.com/hrbrmstr/freebase) - 👃🏽A 'usethis'-like Package for Base R Pseudo-equivalents of 'tidyverse' Code
-* [GuangchuangYu/emojifont](https://github.com/GuangchuangYu/emojifont) - :lollipop:Emoji and fontawesom in both base and ggplot2 graphics
-* [gforge/htmlTable](https://github.com/gforge/htmlTable) - An R package for generating advanced tables
-* [gaborcsardi/prompt](https://github.com/gaborcsardi/prompt) - Dynamic R prompt
-* [Fossj117/NBAdata](https://github.com/Fossj117/NBAdata) - Contains scraper in R for grabbing NBA Sport Tracking Data
-* [fawda123/NeuralNetTools](https://github.com/fawda123/NeuralNetTools) - R package of generic neural network tools
 * [duncantl/CodeDepends](https://github.com/duncantl/CodeDepends) - Analysis of R code for reproducible research and code view
-* [davidski/evaluator](https://github.com/davidski/evaluator) - ⚖Open Source Toolkit for Quantitative Risk Assessment
+* [druid-io/RDruid](https://github.com/druid-io/RDruid) - Druid connector for R
+* [dreamRs/shufflecards](https://github.com/dreamRs/shufflecards) - :sparkles: Create magical grid layouts in Shiny & Markdown
+* [DASpringate/Rkoans](https://github.com/DASpringate/Rkoans) - R Koans: An interactive R tutorial
+* [d3treeR/d3treeR](https://github.com/d3treeR/d3treeR) - R htmlwidget for d3.js treemaps
 * [BSDStudios/ethr](https://github.com/BSDStudios/ethr) - An Ethereum package for R
 * [AlexIoannides/pipeliner](https://github.com/AlexIoannides/pipeliner) - Machine learning pipelines for R.
 * [wviechtb/metafor](https://github.com/wviechtb/metafor) - A Meta-Analysis Package for R
-* [underthecurve/r-data-cleaning-tricks](https://github.com/underthecurve/r-data-cleaning-tricks) - Data Cleaning Tricks in R for Boston University's "Storytelling with Data" workshop
-* [tjmahr/WrapRmd](https://github.com/tjmahr/WrapRmd) - RStudio addin for wrapping RMarkdown paragraphs
-* [rustyoldrake/R_Scripts_for_Watson](https://github.com/rustyoldrake/R_Scripts_for_Watson) - Experimental Scripts Written in R Programming Language, leveraging RCURL and HTTR that Access the IBM Watson Services / APIs
+* [swarm-lab/videoplayR](https://github.com/swarm-lab/videoplayR) - A computer vision library for R
 * [ropensci/rfishbase](https://github.com/ropensci/rfishbase) - R interface to the fishbase.org database
-* [ropensci/FedData](https://github.com/ropensci/FedData) - Functions to Automate Downloading Geospatial Data Available from Several Federated Data Sources
-* [ropensci/cyphr](https://github.com/ropensci/cyphr) - :shipit: Humane encryption
+* [romainfrancois/trump](https://github.com/romainfrancois/trump) - instantly segfault your R session
 * [RLesur/casewhen](https://github.com/RLesur/casewhen) - Create reusable dplyr::case_when() functions
-* [qxde01/myRproj](https://github.com/qxde01/myRproj) - 一些关于R使用的练习和想法
-* [psolymos/pbapply](https://github.com/psolymos/pbapply) - Adding progress bar to '*apply' functions in R
-* [OHDSI/PatientLevelPrediction](https://github.com/OHDSI/PatientLevelPrediction) - An R package for performing patient level prediction.
-* [keberwein/blscrapeR](https://github.com/keberwein/blscrapeR) - A tool to gather, analyze and visualize data from the Bureau of Labor Statistics (BLS) API. Functions include segmentation, geographic analysis and visualization.
+* [petermeissner/wikipediatrend](https://github.com/petermeissner/wikipediatrend) - A convenience R package for getting Wikipedia article access statistics (and more).
+* [mwip/beautifyR](https://github.com/mwip/beautifyR) - RStudio addin for formatting Rmarkdown tables
 * [kbroman/pkg_primer](https://github.com/kbroman/pkg_primer) - R package primer: a minimal tutorial on writing R packages
 * [jdonaldson/rtsne](https://github.com/jdonaldson/rtsne) - An R package for t-SNE (t-Distributed Stochastic Neighbor Embedding)
+* [jcheng5/bubbles](https://github.com/jcheng5/bubbles) - d3 Bubble Chart for R
+* [GuangchuangYu/emojifont](https://github.com/GuangchuangYu/emojifont) - :lollipop:Emoji and fontawesom in both base and ggplot2 graphics
+* [gforge/htmlTable](https://github.com/gforge/htmlTable) - An R package for generating advanced tables
+* [Fossj117/NBAdata](https://github.com/Fossj117/NBAdata) - Contains scraper in R for grabbing NBA Sport Tracking Data
+* [fawda123/NeuralNetTools](https://github.com/fawda123/NeuralNetTools) - R package of generic neural network tools
+* [asifsalam/PowerPoint_from_R](https://github.com/asifsalam/PowerPoint_from_R) - PowerPoint_from_R
+* [terrytangyuan/dml](https://github.com/terrytangyuan/dml) - R package for Distance Metric Learning
+* [rustyoldrake/R_Scripts_for_Watson](https://github.com/rustyoldrake/R_Scripts_for_Watson) - Experimental Scripts Written in R Programming Language, leveraging RCURL and HTTR that Access the IBM Watson Services / APIs
+* [ropensci/FedData](https://github.com/ropensci/FedData) - Functions to Automate Downloading Geospatial Data Available from Several Federated Data Sources
+* [ropensci/cyphr](https://github.com/ropensci/cyphr) - :shipit: Humane encryption
+* [romainfrancois/rap](https://github.com/romainfrancois/rap) - yet another experimental way of processing a data.frame rowwisely
+* [rdpeng/threadpool](https://github.com/rdpeng/threadpool) - Parallel Processing in R using a Thread Pool
+* [qxde01/myRproj](https://github.com/qxde01/myRproj) - 一些关于R使用的练习和想法
+* [psolymos/pbapply](https://github.com/psolymos/pbapply) - Adding progress bar to '*apply' functions in R
+* [neuropsychology/psycho.R](https://github.com/neuropsychology/psycho.R) - Efficient and Publishing-Oriented Workflow for Psychological Science
+* [mikeasilva/blsAPI](https://github.com/mikeasilva/blsAPI) - BLS API wrapper for R
+* [metrumresearchgroup/d3Tree](https://github.com/metrumresearchgroup/d3Tree) - htmlwidget that binds d3js collapsible trees to R and Shiny to make an interactive search tool
+* [keberwein/blscrapeR](https://github.com/keberwein/blscrapeR) - A tool to gather, analyze and visualize data from the Bureau of Labor Statistics (BLS) API. Functions include segmentation, geographic analysis and visualization.
+* [hrbrmstr/nominatim](https://github.com/hrbrmstr/nominatim) - :earth_asia: Tools for Working with the 'Nominatim' API in R
 * [Ectelion/facial-expression-recognition](https://github.com/Ectelion/facial-expression-recognition) - The main purpose of the project - recognition of emotions based on facial expressions. Cohn-Kanade data set (http://www.pitt.edu/~emotion/ck-spread.htm) is used for explorations and training
 * [daniel1noble/metaDigitise](https://github.com/daniel1noble/metaDigitise) - Digitising functions in R for extracting data and summary statistics from figures in primary research papers
+* [bquast/rnn](https://github.com/bquast/rnn) - Recurrent Neural Networks in R
 * [woobe/deepr](https://github.com/woobe/deepr) - An R package to streamline the training, fine-tuning and predicting processes for deep learning based on 'darch' and 'deepnet'.
+* [tidyverse/googlesheets4](https://github.com/tidyverse/googlesheets4) - Google Spreadsheets R API (reboot of the googlesheets package)
 * [stan-dev/loo](https://github.com/stan-dev/loo) - loo R package for approximate leave-one-out cross-validation (LOO-CV) and Pareto smoothed importance sampling (PSIS)
-* [rstudio/rsconnect](https://github.com/rstudio/rsconnect) - Deployment interface for Shiny applications
-* [rstudio/cloudml](https://github.com/rstudio/cloudml) - Cloud ML interface for R
+* [singmann/afex](https://github.com/singmann/afex) - Analysis of Factorial EXperiments (R package)
 * [RosebudAnwuri/TheArtandScienceofData](https://github.com/RosebudAnwuri/TheArtandScienceofData) - Code Repository for the the blog: The Art and Science of Data.
 * [ropensci/rWBclimate](https://github.com/ropensci/rWBclimate) - R interface for the World Bank climate data
 * [ropensci/rOpenSci](https://github.com/ropensci/rOpenSci) - ⛔️ [DEPRECATED] R interface for literature and data repositories
 * [ropensci/nodbi](https://github.com/ropensci/nodbi) - Document DBI connector for R
-* [rdpeng/threadpool](https://github.com/rdpeng/threadpool) - Parallel Processing in R using a Thread Pool
-* [petermeissner/wikipediatrend](https://github.com/petermeissner/wikipediatrend) - A convenience R package for getting Wikipedia article access statistics (and more).
+* [ropensci/GSODR](https://github.com/ropensci/GSODR) - Global Surface Summary of the Day ('GSOD') Weather Data Client for R
+* [r-lib/prettycode](https://github.com/r-lib/prettycode) - Syntax highlight R code in the terminal
 * [noamross/noamtools](https://github.com/noamross/noamtools) - Miscellaneous convenience functions for R
-* [mwip/beautifyR](https://github.com/mwip/beautifyR) - RStudio addin for formatting Rmarkdown tables
 * [mtennekes/treemap](https://github.com/mtennekes/treemap) - R package for treemap visualisation
 * [juba/questionr](https://github.com/juba/questionr) - R package to make surveys processing easier
+* [jolars/eulerr](https://github.com/jolars/eulerr) - Area-Proportional Euler and Venn Diagrams with Ellipses
 * [johnmyleswhite/log4r](https://github.com/johnmyleswhite/log4r) - A log4j derivative for R.
 * [jeroen/js](https://github.com/jeroen/js) - Tools for Working with JavaScript in R
 * [jbkunst/r-posts](https://github.com/jbkunst/r-posts) - Some R scripts and some R ideas
 * [ianmcook/implyr](https://github.com/ianmcook/implyr) - SQL backend to dplyr for Impala
-* [hafen/stlplus](https://github.com/hafen/stlplus) - Seasonal-Trend Decomposition using Loess (STL) in R
-* [erichson/rSVD](https://github.com/erichson/rSVD) - Randomized Matrix Decompositions using R
-* [cloudyr/Rmonkey](https://github.com/cloudyr/Rmonkey) - A Survey Monkey R Client
-* [bquast/rnn](https://github.com/bquast/rnn) - Recurrent Neural Networks in R
-* [alyssafrazee/RSkittleBrewer](https://github.com/alyssafrazee/RSkittleBrewer) - for those times you want to make plots with candy-themed color schemes
-* [yixuan/rARPACK](https://github.com/yixuan/rARPACK) - Solvers for Large Scale Eigenvalue and SVD Problems
-* [ropensci/GSODR](https://github.com/ropensci/GSODR) - Global Surface Summary of the Day ('GSOD') Weather Data Client for R
-* [r-music/chorrrds](https://github.com/r-music/chorrrds) - R package to extract music chords
-* [r-lib/clisymbols](https://github.com/r-lib/clisymbols) - Unicode symbols for CLI applications, with fallbacks
-* [mikeasilva/blsAPI](https://github.com/mikeasilva/blsAPI) - BLS API wrapper for R
-* [kbroman/qtl](https://github.com/kbroman/qtl) - R/qtl: A QTL mapping environment
-* [JustinMShea/wooldridge](https://github.com/JustinMShea/wooldridge) - The official R data package for "Introductory Econometrics: A Modern Approach". A vignette contains example models from each chapter.
-* [jolars/eulerr](https://github.com/jolars/eulerr) - Area-Proportional Euler and Venn Diagrams with Ellipses
 * [hrbrmstr/dtupdate](https://github.com/hrbrmstr/dtupdate) - The dtupdate package has functions that try to make it easier to keep up with the non-CRAN universe
+* [cloudyr/Rmonkey](https://github.com/cloudyr/Rmonkey) - A Survey Monkey R Client
 * [CenterForOpenScience/osfr](https://github.com/CenterForOpenScience/osfr) - An R package to interface with OSF (WORK IN PROGRESS)
+* [alyssafrazee/RSkittleBrewer](https://github.com/alyssafrazee/RSkittleBrewer) - for those times you want to make plots with candy-themed color schemes
+* [aertslab/SCENIC](https://github.com/aertslab/SCENIC) - SCENIC is an R package to infer Gene Regulatory Networks and cell types from single-cell RNA-seq data.
+* [yixuan/rARPACK](https://github.com/yixuan/rARPACK) - Solvers for Large Scale Eigenvalue and SVD Problems
+* [kbroman/qtl](https://github.com/kbroman/qtl) - R/qtl: A QTL mapping environment
+* [CODAIT/r4ml](https://github.com/CODAIT/r4ml) - Scalable R for Machine Learning
+* [quanteda/spacyr](https://github.com/quanteda/spacyr) - R wrapper to spaCy NLP
+* [jrnold/r4ds-exercise-solutions](https://github.com/jrnold/r4ds-exercise-solutions) - Solutions to the exercises in "R for Data Science"
+* [trevorld/optparse](https://github.com/trevorld/optparse) - R package providing a commandline optional argument parser
+* [ha0ye/rEDM](https://github.com/ha0ye/rEDM) - Applications of Empirical Dynamic Modeling from Time Series
+* [tjmahr/WrapRmd](https://github.com/tjmahr/WrapRmd) - RStudio addin for wrapping RMarkdown paragraphs
+* [hafen/stlplus](https://github.com/hafen/stlplus) - Seasonal-Trend Decomposition using Loess (STL) in R
+* [r-lib/clisymbols](https://github.com/r-lib/clisymbols) - Unicode symbols for CLI applications, with fallbacks
+* [JustinMShea/wooldridge](https://github.com/JustinMShea/wooldridge) - The official R data package for "Introductory Econometrics: A Modern Approach". A vignette contains example models from each chapter.
 * [Bioconductor/GenomicDataCommons](https://github.com/Bioconductor/GenomicDataCommons) - Provide R access to the NCI Genomic Data Commons portal.
 * [yonicd/noplyr](https://github.com/yonicd/noplyr) - basic dplyr and tidyr functionality without the tidyverse dependencies
 * [tpoisot/digitize](https://github.com/tpoisot/digitize) - A R package to extract data from scatterplots
 * [stattleship/stattleship-r](https://github.com/stattleship/stattleship-r) - Stattleship R Wrapper
 * [skoval/deuce](https://github.com/skoval/deuce) - R package for web scraping of tennis data
-* [singmann/afex](https://github.com/singmann/afex) - Analysis of Factorial EXperiments (R package)
 * [ropensci/RMendeley](https://github.com/ropensci/RMendeley) - ⛔️ [DEPRECATED] Implementation of the Mendeley API in R
 * [ropenscilabs/testrmd](https://github.com/ropenscilabs/testrmd) - Test chunks for R Markdown.
-* [r-lib/prettycode](https://github.com/r-lib/prettycode) - Syntax highlight R code in the terminal
 * [nproellochs/ReinforcementLearning](https://github.com/nproellochs/ReinforcementLearning) - This package performs model-free reinforcement learning in R.
-* [neuropsychology/psycho.R](https://github.com/neuropsychology/psycho.R) - Efficient and Publishing-Oriented Workflow for Psychological Science
-* [metrumresearchgroup/d3Tree](https://github.com/metrumresearchgroup/d3Tree) - htmlwidget that binds d3js collapsible trees to R and Shiny to make an interactive search tool
 * [massimoaria/bibliometrix](https://github.com/massimoaria/bibliometrix) - An R-tool for comprehensive science mapping analysis. A package for quantitative research in scientometrics and bibliometrics.
 * [leonawicz/tabr](https://github.com/leonawicz/tabr) - R package: tabr. Guitar tablature/sheet music with R.
 * [influxdata/influxdb-r](https://github.com/influxdata/influxdb-r) - R library for InfluxDB
-* [hrbrmstr/nominatim](https://github.com/hrbrmstr/nominatim) - :earth_asia: Tools for Working with the 'Nominatim' API in R
-* [gdkrmr/dimRed](https://github.com/gdkrmr/dimRed) - A Framework for Dimensionality Reduction in R
 * [ellisp/forecastHybrid](https://github.com/ellisp/forecastHybrid) - Convenient functions for ensemble forecasts in R combining approaches from the {forecast} package
 * [danicat/datasus](https://github.com/danicat/datasus) - An Interface for the Brazilian Public Healthcare Data Repository (DATASUS) for the R Language
 * [Bart6114/infuser](https://github.com/Bart6114/infuser) - infuser is a simple and very basic templating engine for R
@@ -909,7 +930,6 @@ A curated list of awesome R frameworks, libraries and software.
 * [dfalbel/captchaReceita2](https://github.com/dfalbel/captchaReceita2) - Quebrando o captcha da Receita Federal - v2
 * [briandconnelly/ggplot2bdc](https://github.com/briandconnelly/ggplot2bdc) - Collection of themes and tools for modifying ggplot2 plots
 * [Ironholds/webreadr](https://github.com/Ironholds/webreadr) - A package for consuming and munging access log data
-* [CODAIT/r4ml](https://github.com/CODAIT/r4ml) - Scalable R for Machine Learning
 * [bvieth/powsimR](https://github.com/bvieth/powsimR) - Power analysis is essential to optimize the design of RNA-seq experiments and to assess and compare the power to detect differentially expressed genes. PowsimR is a flexible tool to simulate and evaluate differential expression from bulk and especially single-cell RNA-seq data making it suitable for a priori and posterior power analyses.
 * [Bioconductor/GoogleGenomics](https://github.com/Bioconductor/GoogleGenomics) - An R package for Google Genomics API queries.
 * [sckott/cowsay](https://github.com/sckott/cowsay) - cowsay w/ more animals, in R
@@ -966,7 +986,6 @@ A curated list of awesome R frameworks, libraries and software.
 * [mariodeng/FirebrowseR](https://github.com/mariodeng/FirebrowseR) - An R client for broads firehose pipeline, providing TCGA data sets
 * [jhollist/manuscriptPackage](https://github.com/jhollist/manuscriptPackage) - Template for writing manuscripts as an R package
 * [jcizel/FredR](https://github.com/jcizel/FredR) - FredR: R Interface to Federal Reserve Economic Data API
-* [hoxo-m/pforeach](https://github.com/hoxo-m/pforeach) - Easy to parallel processing in R
 * [gsimchoni/CastleOfR](https://github.com/gsimchoni/CastleOfR) - A text-based adventure played in the R console, to test your skills in R
 * [dselivanov/FTRL](https://github.com/dselivanov/FTRL) - R/Rcpp implementation of the 'Follow-the-Regularized-Leader' algorithm
 * [Dementiy/vkR](https://github.com/Dementiy/vkR) - Access to VK (Vkontakte) API via R
@@ -1035,7 +1054,6 @@ A curated list of awesome R frameworks, libraries and software.
 * [jumanbar/Curso-R](https://github.com/jumanbar/Curso-R) - Repositorio con los scripts y otros archivos varios que usamos para el curso IMSER.
 * [IronistM/R_Google_Analytics](https://github.com/IronistM/R_Google_Analytics) - This is the repo with the code snippets that supply the "R + Google Analytics = FUN" post regarding getting speed metrics and clickstream data off of the GA API to R.
 * [ekstroem/dataMaid](https://github.com/ekstroem/dataMaid) - An R package for data screening
-* [hrbrmstr/waffle](https://github.com/hrbrmstr/waffle) - :maple_leaf: Make waffle (square pie) charts in R
 * [krlmlr/rprojroot](https://github.com/krlmlr/rprojroot) - Finding files in project subdirectories
 * [krlmlr/here](https://github.com/krlmlr/here) - A simpler way to find your files
 * [dselivanov/reco](https://github.com/dselivanov/reco) - Fast and accurate top-N recommendation algorithms
@@ -1084,7 +1102,6 @@ A curated list of awesome R frameworks, libraries and software.
 * [holstius/opentsdbr](https://github.com/holstius/opentsdbr) - Pull data from OpenTSDB into R
 * [sjewo/readstata13](https://github.com/sjewo/readstata13) - Package to read the Stata 13 (and newer) file format into a R data.frame
 * [ropensci/ropenaq](https://github.com/ropensci/ropenaq) - :earth_americas: :earth_africa: :earth_asia: R package for the OpenAQ API :earth_americas: :earth_africa: :earth_asia:
-* [hoxo-m/SparkRext](https://github.com/hoxo-m/SparkRext) - SparkR extension for closer to dplyr
 * [ThinkR-open/collage](https://github.com/ThinkR-open/collage) - Image collage
 * [ropensci/roadoi](https://github.com/ropensci/roadoi) - Use oaDOI.org with R
 * [ropenscilabs/rcheatsheet](https://github.com/ropenscilabs/rcheatsheet) - Cheatsheets for R
@@ -1196,7 +1213,6 @@ A curated list of awesome R frameworks, libraries and software.
 * [Hong-Revo/glmnetUtils](https://github.com/Hong-Revo/glmnetUtils) - Utilities for glmnet
 * [hadley/lvplot](https://github.com/hadley/lvplot) - Letter value boxplots for R
 * [Esri/R-toolbox-py](https://github.com/Esri/R-toolbox-py) - R-toolbox-py
-* [rstudio/keras](https://github.com/rstudio/keras) - R Interface to Keras
 * [goldingn/greta](https://github.com/goldingn/greta) - simple and scalable statistical modelling in R
 * [davismcc/scater](https://github.com/davismcc/scater) - Single cell analysis tools for expression from RNA-seq in R
 * [ProjectMOSAIC/mosaic](https://github.com/ProjectMOSAIC/mosaic) - Project MOSAIC R package
