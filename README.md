@@ -380,3 +380,4 @@ A curated list of awesome R frameworks, libraries and software.
 * [ModelOriented/randomForestExplainer](https://github.com/ModelOriented/randomForestExplainer) - A set of tools to understand what is happening inside a Random Forest
 * [mkearney/tidyversity](https://github.com/mkearney/tidyversity) - 🎓 Tidy tools for academics
 * [ianmcook/implyr](https://github.com/ianmcook/implyr) - SQL backend to dplyr for Impala
+* [thospfuller/rcoboldi](https://github.com/thospfuller/rcoboldi) - Import COBOL CopyBook data files directly into R as properly structured data frames. Package builds are available via [Drat](https://github.com/thospfuller/drat) and [DockerHub](https://hub.docker.com/r/thospfuller/rcoboldi-rocker-rstudio).
