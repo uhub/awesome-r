@@ -532,7 +532,7 @@ A curated list of awesome R frameworks, libraries and software.
 * [hgeorgako/rfortraders](https://github.com/hgeorgako/rfortraders) - Quantitative Trading with R
 * [ateucher/rmapshaper](https://github.com/ateucher/rmapshaper) - An R wrapper for the mapshaper javascript library
 * [ropensci/tokenizers](https://github.com/ropensci/tokenizers) - Fast, Consistent Tokenization of Natural Language Text
-* [Roche/rtables](https://github.com/Roche/rtables) - Reporting tables with R
+* [insightsengineering/rtables](https://github.com/insightsengineering/rtables) - Reporting tables with R
 * [r-lib/keyring](https://github.com/r-lib/keyring) - :closed_lock_with_key: Access the system credential store from R
 * [PecanProject/pecan](https://github.com/PecanProject/pecan) - The Predictive Ecosystem Analyzer (PEcAn) is an integrated ecological bioinformatics toolbox.
 * [openpharma/visR](https://github.com/openpharma/visR) - A package to wrap functionality for plots, tables and diagrams adhering to graphical principles.
